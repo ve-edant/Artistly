@@ -1,9 +1,11 @@
 import { configureStore } from '@reduxjs/toolkit'
-import artistReducer from "./filterSlice"
+import artistReducer from "@/store/artistSlice"
+import categoryReducer from "@/store/categorySlice"
 
 export const store = configureStore({
   reducer: {
     artist: artistReducer,
+    categories: categoryReducer,
   },
 })
 

@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "singers-pop-bollywood-01",
+    "name": "Aisha Melody",
+    "category": "Singers",
+    "subCategory": ["Pop", "Bollywood"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Melody",
+    "location": "Pune",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.5
+  },
+  {
+    "id": "singers-classical-indie-02",
+    "name": "Rahul Harmony",
+    "category": "Singers",
+    "subCategory": ["Classical", "Indie"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Harmony",
+    "location": "Lucknow",
+    "priceRange": "$5,000+",
+    "rating": 4.9
+  },
+  {
+    "id": "singers-rap-opera-03",
+    "name": "Priya Sound",
+    "category": "Singers",
+    "subCategory": ["Rap", "Opera"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Sound",
+    "location": "Hyderabad",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.1
+  },
+  {
+    "id": "singers-pop-classical-04",
+    "name": "Arjun Voice",
+    "category": "Singers",
+    "subCategory": ["Pop", "Classical"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Voice",
+    "location": "Jaipur",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.7
+  },
+  {
+    "id": "singers-bollywood-indie-05",
+    "name": "Sneha Rhythm",
+    "category": "Singers",
+    "subCategory": ["Bollywood", "Indie"],
+    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Rhythm",
+    "location": "Kolkata",
+    "priceRange": "Quote Based",
+    "rating": 4.3
+  },
+  {
+    "id": "singers-rap-pop-06",
+    "name": "Vikram Harmony",
+    "category": "Singers",
+    "subCategory": ["Rap", "Pop"],
+    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Harmony",
+    "location": "Mumbai",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.6
+  },
+  {
+    "id": "singers-opera-classical-07",
+    "name": "Meera Sound",
+    "category": "Singers",
+    "subCategory": ["Opera", "Classical"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Sound",
+    "location": "Delhi",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.0
+  },
+  {
+    "id": "singers-bollywood-rap-08",
+    "name": "Rohit Voice",
+    "category": "Singers",
+    "subCategory": ["Bollywood", "Rap"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Voice",
+    "location": "Bangalore",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.8
+  },
+  {
+    "id": "singers-indie-opera-09",
+    "name": "Divya Rhythm",
+    "category": "Singers",
+    "subCategory": ["Indie", "Opera"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Rhythm",
+    "location": "Chennai",
+    "priceRange": "Quote Based",
+    "rating": 4.2
+  },
+  {
+    "id": "singers-pop-indie-10",
+    "name": "Karan Melody",
+    "category": "Singers",
+    "subCategory": ["Pop", "Indie"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Melody",
+    "location": "Ahmedabad",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.7
+  },
+  {
+    "id": "dancers-hip-hop-classical-01",
+    "name": "Aisha Grace",
+    "category": "Dancers",
+    "subCategory": ["Hip-Hop", "Classical"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Grace",
+    "location": "Bangalore",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.5
+  },
+  {
+    "id": "dancers-contemporary-ballet-02",
+    "name": "Rahul Movement",
+    "category": "Dancers",
+    "subCategory": ["Contemporary", "Ballet"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Movement",
+    "location": "Chennai",
+    "priceRange": "$5,000+",
+    "rating": 4.9
+  },
+  {
+    "id": "dancers-folk-hip-hop-03",
+    "name": "Priya Flow",
+    "category": "Dancers",
+    "subCategory": ["Folk", "Hip-Hop"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Flow",
+    "location": "Kolkata",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.1
+  },
+  {
+    "id": "dancers-classical-contemporary-04",
+    "name": "Arjun Tempo",
+    "category": "Dancers",
+    "subCategory": ["Classical", "Contemporary"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Tempo",
+    "location": "Hyderabad",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.7
+  },
+  {
+    "id": "dancers-ballet-folk-05",
+    "name": "Sneha Stride",
+    "category": "Dancers",
+    "subCategory": ["Ballet", "Folk"],
+    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Stride",
+    "location": "Pune",
+    "priceRange": "Quote Based",
+    "rating": 4.3
+  },
+  {
+    "id": "dancers-hip-hop-ballet-06",
+    "name": "Vikram Grace",
+    "category": "Dancers",
+    "subCategory": ["Hip-Hop", "Ballet"],
+    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Grace",
+    "location": "Ahmedabad",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.6
+  },
+  {
+    "id": "dancers-contemporary-folk-07",
+    "name": "Meera Movement",
+    "category": "Dancers",
+    "subCategory": ["Contemporary", "Folk"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Movement",
+    "location": "Goa",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.0
+  },
+  {
+    "id": "dancers-classical-hip-hop-08",
+    "name": "Rohit Flow",
+    "category": "Dancers",
+    "subCategory": ["Classical", "Hip-Hop"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Flow",
+    "location": "Chandigarh",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.8
+  },
+  {
+    "id": "dancers-ballet-contemporary-09",
+    "name": "Divya Tempo",
+    "category": "Dancers",
+    "subCategory": ["Ballet", "Contemporary"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Tempo",
+    "location": "Kochi",
+    "priceRange": "Quote Based",
+    "rating": 4.2
+  },
+  {
+    "id": "dancers-folk-classical-10",
+    "name": "Karan Stride",
+    "category": "Dancers",
+    "subCategory": ["Folk", "Classical"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Stride",
+    "location": "Surat",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.7
+  },
+  {
+    "id": "djs-wedding-club-dj-01",
+    "name": "Aisha Beat",
+    "category": "DJs",
+    "subCategory": ["Wedding DJ", "Club DJ"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Beat",
+    "location": "Pune",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.5
+  },
+  {
+    "id": "djs-edm-techno-02",
+    "name": "Rahul Spin",
+    "category": "DJs",
+    "subCategory": ["EDM", "Techno"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Spin",
+    "location": "Ahmedabad",
+    "priceRange": "$5,000+",
+    "rating": 4.9
+  },
+  {
+    "id": "djs-retro-wedding-dj-03",
+    "name": "Priya Mix",
+    "category": "DJs",
+    "subCategory": ["Retro", "Wedding DJ"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Mix",
+    "location": "Goa",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.1
+  },
+  {
+    "id": "djs-club-edm-04",
+    "name": "Arjun Pulse",
+    "category": "DJs",
+    "subCategory": ["Club DJ", "EDM"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Pulse",
+    "location": "Chandigarh",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.7
+  },
+  {
+    "id": "djs-techno-retro-05",
+    "name": "Sneha Sonic",
+    "category": "DJs",
+    "subCategory": ["Techno", "Retro"],
+    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Sonic",
+    "location": "Kochi",
+    "priceRange": "Quote Based",
+    "rating": 4.3
+  },
+  {
+    "id": "djs-wedding-edm-06",
+    "name": "Vikram Beat",
+    "category": "DJs",
+    "subCategory": ["Wedding DJ", "EDM"],
+    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Beat",
+    "location": "Surat",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.6
+  },
+  {
+    "id": "djs-club-techno-07",
+    "name": "Meera Spin",
+    "category": "DJs",
+    "subCategory": ["Club DJ", "Techno"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Spin",
+    "location": "Bhopal",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.0
+  },
+  {
+    "id": "djs-retro-club-08",
+    "name": "Rohit Mix",
+    "category": "DJs",
+    "subCategory": ["Retro", "Club DJ"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Mix",
+    "location": "Mumbai",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.8
+  },
+  {
+    "id": "djs-edm-wedding-09",
+    "name": "Divya Pulse",
+    "category": "DJs",
+    "subCategory": ["EDM", "Wedding DJ"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Pulse",
+    "location": "Delhi",
+    "priceRange": "Quote Based",
+    "rating": 4.2
+  },
+  {
+    "id": "djs-techno-club-10",
+    "name": "Karan Sonic",
+    "category": "DJs",
+    "subCategory": ["Techno", "Club DJ"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Sonic",
+    "location": "Bangalore",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.7
+  },
+  {
+    "id": "comedians-stand-up-sketch-01",
+    "name": "Aisha Laughs",
+    "category": "Comedians",
+    "subCategory": ["Stand-up", "Sketch"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Laughs",
+    "location": "Kochi",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.5
+  },
+  {
+    "id": "comedians-improv-roast-02",
+    "name": "Rahul Giggle",
+    "category": "Comedians",
+    "subCategory": ["Improv", "Roast"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Giggle",
+    "location": "Surat",
+    "priceRange": "$5,000+",
+    "rating": 4.9
+  },
+  {
+    "id": "comedians-satirical-stand-up-03",
+    "name": "Priya Jest",
+    "category": "Comedians",
+    "subCategory": ["Satirical", "Stand-up"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Jest",
+    "location": "Bhopal",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.1
+  },
+  {
+    "id": "comedians-sketch-improv-04",
+    "name": "Arjun Quip",
+    "category": "Comedians",
+    "subCategory": ["Sketch", "Improv"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Quip",
+    "location": "Mumbai",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.7
+  },
+  {
+    "id": "comedians-roast-satirical-05",
+    "name": "Sneha Chuckles",
+    "category": "Comedians",
+    "subCategory": ["Roast", "Satirical"],
+    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Chuckles",
+    "location": "Delhi",
+    "priceRange": "Quote Based",
+    "rating": 4.3
+  },
+  {
+    "id": "comedians-stand-up-roast-06",
+    "name": "Vikram Laughs",
+    "category": "Comedians",
+    "subCategory": ["Stand-up", "Roast"],
+    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Laughs",
+    "location": "Bangalore",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.6
+  },
+  {
+    "id": "comedians-improv-satirical-07",
+    "name": "Meera Giggle",
+    "category": "Comedians",
+    "subCategory": ["Improv", "Satirical"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Giggle",
+    "location": "Chennai",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.0
+  },
+  {
+    "id": "comedians-sketch-stand-up-08",
+    "name": "Rohit Jest",
+    "category": "Comedians",
+    "subCategory": ["Sketch", "Stand-up"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Jest",
+    "location": "Kolkata",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.8
+  },
+  {
+    "id": "comedians-roast-improv-09",
+    "name": "Divya Quip",
+    "category": "Comedians",
+    "subCategory": ["Roast", "Improv"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Quip",
+    "location": "Hyderabad",
+    "priceRange": "Quote Based",
+    "rating": 4.2
+  },
+  {
+    "id": "comedians-satirical-sketch-10",
+    "name": "Karan Chuckles",
+    "category": "Comedians",
+    "subCategory": ["Satirical", "Sketch"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Chuckles",
+    "location": "Pune",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.7
+  },
+  {
+    "id": "speakers-motivational-educational-01",
+    "name": "Aisha Eloquence",
+    "category": "Speakers",
+    "subCategory": ["Motivational", "Educational"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Eloquence",
+    "location": "Delhi",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.5
+  },
+  {
+    "id": "speakers-celebrity-corporate-02",
+    "name": "Rahul Insight",
+    "category": "Speakers",
+    "subCategory": ["Celebrity", "Corporate"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Insight",
+    "location": "Bangalore",
+    "priceRange": "$5,000+",
+    "rating": 4.9
+  },
+  {
+    "id": "speakers-spiritual-motivational-03",
+    "name": "Priya Clarity",
+    "category": "Speakers",
+    "subCategory": ["Spiritual", "Motivational"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Clarity",
+    "location": "Chennai",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.1
+  },
+  {
+    "id": "speakers-educational-celebrity-04",
+    "name": "Arjun Vision",
+    "category": "Speakers",
+    "subCategory": ["Educational", "Celebrity"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Vision",
+    "location": "Kolkata",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.7
+  },
+  {
+    "id": "speakers-corporate-spiritual-05",
+    "name": "Sneha Impact",
+    "category": "Speakers",
+    "subCategory": ["Corporate", "Spiritual"],
+    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Impact",
+    "location": "Hyderabad",
+    "priceRange": "Quote Based",
+    "rating": 4.3
+  },
+  {
+    "id": "speakers-motivational-corporate-06",
+    "name": "Vikram Eloquence",
+    "category": "Speakers",
+    "subCategory": ["Motivational", "Corporate"],
+    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Eloquence",
+    "location": "Pune",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.6
+  },
+  {
+    "id": "speakers-celebrity-educational-07",
+    "name": "Meera Insight",
+    "category": "Speakers",
+    "subCategory": ["Celebrity", "Educational"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Insight",
+    "location": "Ahmedabad",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.0
+  },
+  {
+    "id": "speakers-spiritual-celebrity-08",
+    "name": "Rohit Clarity",
+    "category": "Speakers",
+    "subCategory": ["Spiritual", "Celebrity"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Clarity",
+    "location": "Goa",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.8
+  },
+  {
+    "id": "speakers-corporate-motivational-09",
+    "name": "Divya Vision",
+    "category": "Speakers",
+    "subCategory": ["Corporate", "Motivational"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Vision",
+    "location": "Chandigarh",
+    "priceRange": "Quote Based",
+    "rating": 4.2
+  },
+  {
+    "id": "speakers-educational-spiritual-10",
+    "name": "Karan Impact",
+    "category": "Speakers",
+    "subCategory": ["Educational", "Spiritual"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Impact",
+    "location": "Kochi",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.7
+  },
+  {
+    "id": "magicians-illusionist-mentalist-01",
+    "name": "Aisha Mystic",
+    "category": "Magicians",
+    "subCategory": ["Illusionist", "Mentalist"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Mystic",
+    "location": "Hyderabad",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.5
+  },
+  {
+    "id": "magicians-close-up-stage-02",
+    "name": "Rahul Enigma",
+    "category": "Magicians",
+    "subCategory": ["Close-Up", "Stage"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Enigma",
+    "location": "Pune",
+    "priceRange": "$5,000+",
+    "rating": 4.9
+  },
+  {
+    "id": "magicians-kids-shows-illusionist-03",
+    "name": "Priya Illusion",
+    "category": "Magicians",
+    "subCategory": ["Kids Shows", "Illusionist"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Illusion",
+    "location": "Ahmedabad",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.1
+  },
+  {
+    "id": "magicians-mentalist-close-up-04",
+    "name": "Arjun Wonder",
+    "category": "Magicians",
+    "subCategory": ["Mentalist", "Close-Up"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Wonder",
+    "location": "Goa",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.7
+  },
+  {
+    "id": "magicians-stage-kids-shows-05",
+    "name": "Sneha Conjure",
+    "category": "Magicians",
+    "subCategory": ["Stage", "Kids Shows"],
+    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Conjure",
+    "location": "Chandigarh",
+    "priceRange": "Quote Based",
+    "rating": 4.3
+  },
+  {
+    "id": "magicians-illusionist-stage-06",
+    "name": "Vikram Mystic",
+    "category": "Magicians",
+    "subCategory": ["Illusionist", "Stage"],
+    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Mystic",
+    "location": "Kochi",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.6
+  },
+  {
+    "id": "magicians-close-up-mentalist-07",
+    "name": "Meera Enigma",
+    "category": "Magicians",
+    "subCategory": ["Close-Up", "Mentalist"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Enigma",
+    "location": "Surat",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.0
+  },
+  {
+    "id": "magicians-kids-shows-close-up-08",
+    "name": "Rohit Illusion",
+    "category": "Magicians",
+    "subCategory": ["Kids Shows", "Close-Up"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Illusion",
+    "location": "Bhopal",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.8
+  },
+  {
+    "id": "magicians-stage-mentalist-09",
+    "name": "Divya Wonder",
+    "category": "Magicians",
+    "subCategory": ["Stage", "Mentalist"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Wonder",
+    "location": "Mumbai",
+    "priceRange": "Quote Based",
+    "rating": 4.2
+  },
+  {
+    "id": "magicians-illusionist-kids-shows-10",
+    "name": "Karan Conjure",
+    "category": "Magicians",
+    "subCategory": ["Illusionist", "Kids Shows"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Conjure",
+    "location": "Delhi",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.7
+  },
+  {
+    "id": "instrumentalists-guitarists-pianists-01",
+    "name": "Aisha Chord",
+    "category": "Instrumentalists",
+    "subCategory": ["Guitarists", "Pianists"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Chord",
+    "location": "Chandigarh",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.5
+  },
+  {
+    "id": "instrumentalists-drummers-violinists-02",
+    "name": "Rahul Maestro",
+    "category": "Instrumentalists",
+    "subCategory": ["Drummers", "Violinists"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Maestro",
+    "location": "Kochi",
+    "priceRange": "$5,000+",
+    "rating": 4.9
+  },
+  {
+    "id": "instrumentalists-flutists-guitarists-03",
+    "name": "Priya Tune",
+    "category": "Instrumentalists",
+    "subCategory": ["Flutists", "Guitarists"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Tune",
+    "location": "Surat",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.1
+  },
+  {
+    "id": "instrumentalists-pianists-drummers-04",
+    "name": "Arjun Fingers",
+    "category": "Instrumentalists",
+    "subCategory": ["Pianists", "Drummers"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Fingers",
+    "location": "Bhopal",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.7
+  },
+  {
+    "id": "instrumentalists-violinists-flutists-05",
+    "name": "Sneha Riff",
+    "category": "Instrumentalists",
+    "subCategory": ["Violinists", "Flutists"],
+    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Riff",
+    "location": "Mumbai",
+    "priceRange": "Quote Based",
+    "rating": 4.3
+  },
+  {
+    "id": "instrumentalists-guitarists-drummers-06",
+    "name": "Vikram Chord",
+    "category": "Instrumentalists",
+    "subCategory": ["Guitarists", "Drummers"],
+    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Chord",
+    "location": "Delhi",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.6
+  },
+  {
+    "id": "instrumentalists-pianists-violinists-07",
+    "name": "Meera Maestro",
+    "category": "Instrumentalists",
+    "subCategory": ["Pianists", "Violinists"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Maestro",
+    "location": "Bangalore",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.0
+  },
+  {
+    "id": "instrumentalists-flutists-pianists-08",
+    "name": "Rohit Tune",
+    "category": "Instrumentalists",
+    "subCategory": ["Flutists", "Pianists"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Tune",
+    "location": "Chennai",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.8
+  },
+  {
+    "id": "instrumentalists-drummers-flutists-09",
+    "name": "Divya Fingers",
+    "category": "Instrumentalists",
+    "subCategory": ["Drummers", "Flutists"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Fingers",
+    "location": "Kolkata",
+    "priceRange": "Quote Based",
+    "rating": 4.2
+  },
+  {
+    "id": "instrumentalists-violinists-guitarists-10",
+    "name": "Karan Riff",
+    "category": "Instrumentalists",
+    "subCategory": ["Violinists", "Guitarists"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Riff",
+    "location": "Hyderabad",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.7
+  },
+  {
+    "id": "theatre-artists-drama-mime-01",
+    "name": "Aisha Drama",
+    "category": "Theatre Artists",
+    "subCategory": ["Drama", "Mime"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Drama",
+    "location": "Pune",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.5
+  },
+  {
+    "id": "theatre-artists-street-play-monologue-02",
+    "name": "Rahul Scene",
+    "category": "Theatre Artists",
+    "subCategory": ["Street Play", "Monologue"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Scene",
+    "location": "Ahmedabad",
+    "priceRange": "$5,000+",
+    "rating": 4.9
+  },
+  {
+    "id": "theatre-artists-mime-street-play-03",
+    "name": "Priya Act",
+    "category": "Theatre Artists",
+    "subCategory": ["Mime", "Street Play"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Act",
+    "location": "Goa",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.1
+  },
+  {
+    "id": "theatre-artists-drama-monologue-04",
+    "name": "Arjun Stage",
+    "category": "Theatre Artists",
+    "subCategory": ["Drama", "Monologue"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Stage",
+    "location": "Chandigarh",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.7
+  },
+  {
+    "id": "theatre-artists-street-play-drama-05",
+    "name": "Sneha Persona",
+    "category": "Theatre Artists",
+    "subCategory": ["Street Play", "Drama"],
+    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Persona",
+    "location": "Kochi",
+    "priceRange": "Quote Based",
+    "rating": 4.3
+  },
+  {
+    "id": "theatre-artists-mime-monologue-06",
+    "name": "Vikram Drama",
+    "category": "Theatre Artists",
+    "subCategory": ["Mime", "Monologue"],
+    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Drama",
+    "location": "Surat",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.6
+  },
+  {
+    "id": "theatre-artists-drama-street-play-07",
+    "name": "Meera Scene",
+    "category": "Theatre Artists",
+    "subCategory": ["Drama", "Street Play"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Scene",
+    "location": "Bhopal",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.0
+  },
+  {
+    "id": "theatre-artists-monologue-mime-08",
+    "name": "Rohit Act",
+    "category": "Theatre Artists",
+    "subCategory": ["Monologue", "Mime"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Act",
+    "location": "Mumbai",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.8
+  },
+  {
+    "id": "theatre-artists-street-play-monologue-09",
+    "name": "Divya Stage",
+    "category": "Theatre Artists",
+    "subCategory": ["Street Play", "Monologue"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Stage",
+    "location": "Delhi",
+    "priceRange": "Quote Based",
+    "rating": 4.2
+  },
+  {
+    "id": "theatre-artists-mime-drama-10",
+    "name": "Karan Persona",
+    "category": "Theatre Artists",
+    "subCategory": ["Mime", "Drama"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Persona",
+    "location": "Bangalore",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.7
+  },
+  {
+    "id": "models-fashion-commercial-01",
+    "name": "Aisha Pose",
+    "category": "Models",
+    "subCategory": ["Fashion", "Commercial"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Pose",
+    "location": "Chennai",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.5
+  },
+  {
+    "id": "models-runway-fitness-02",
+    "name": "Rahul Glow",
+    "category": "Models",
+    "subCategory": ["Runway", "Fitness"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Glow",
+    "location": "Kolkata",
+    "priceRange": "$5,000+",
+    "rating": 4.9
+  },
+  {
+    "id": "models-commercial-fashion-03",
+    "name": "Priya Vogue",
+    "category": "Models",
+    "subCategory": ["Commercial", "Fashion"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Vogue",
+    "location": "Hyderabad",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.1
+  },
+  {
+    "id": "models-fitness-runway-04",
+    "name": "Arjun Runway",
+    "category": "Models",
+    "subCategory": ["Fitness", "Runway"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Runway",
+    "location": "Pune",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.7
+  },
+  {
+    "id": "models-fashion-fitness-05",
+    "name": "Sneha Chic",
+    "category": "Models",
+    "subCategory": ["Fashion", "Fitness"],
+    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Chic",
+    "location": "Ahmedabad",
+    "priceRange": "Quote Based",
+    "rating": 4.3
+  },
+  {
+    "id": "models-commercial-runway-06",
+    "name": "Vikram Pose",
+    "category": "Models",
+    "subCategory": ["Commercial", "Runway"],
+    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Pose",
+    "location": "Goa",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.6
+  },
+  {
+    "id": "models-fitness-commercial-07",
+    "name": "Meera Glow",
+    "category": "Models",
+    "subCategory": ["Fitness", "Commercial"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Glow",
+    "location": "Chandigarh",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.0
+  },
+  {
+    "id": "models-runway-fashion-08",
+    "name": "Rohit Vogue",
+    "category": "Models",
+    "subCategory": ["Runway", "Fashion"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Vogue",
+    "location": "Kochi",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.8
+  },
+  {
+    "id": "models-fashion-runway-09",
+    "name": "Divya Runway",
+    "category": "Models",
+    "subCategory": ["Fashion", "Runway"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Runway",
+    "location": "Surat",
+    "priceRange": "Quote Based",
+    "rating": 4.2
+  },
+  {
+    "id": "models-commercial-fitness-10",
+    "name": "Karan Chic",
+    "category": "Models",
+    "subCategory": ["Commercial", "Fitness"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Chic",
+    "location": "Bhopal",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.7
+  },
+  {
+    "id": "hosts-event-host-tv-anchor-01",
+    "name": "Aisha Spark",
+    "category": "Hosts/Emcees",
+    "subCategory": ["Event Host", "TV Anchor"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Spark",
+    "location": "Mumbai",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.5
+  },
+  {
+    "id": "hosts-corporate-host-wedding-emcee-02",
+    "name": "Rahul Charm",
+    "category": "Hosts/Emcees",
+    "subCategory": ["Corporate Host", "Wedding Emcee"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Charm",
+    "location": "Delhi",
+    "priceRange": "$5,000+",
+    "rating": 4.9
+  },
+  {
+    "id": "hosts-tv-anchor-event-host-03",
+    "name": "Priya Voice",
+    "category": "Hosts/Emcees",
+    "subCategory": ["TV Anchor", "Event Host"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Voice",
+    "location": "Bangalore",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.1
+  },
+  {
+    "id": "hosts-wedding-emcee-corporate-host-04",
+    "name": "Arjun Convene",
+    "category": "Hosts/Emcees",
+    "subCategory": ["Wedding Emcee", "Corporate Host"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Convene",
+    "location": "Chennai",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.7
+  },
+  {
+    "id": "hosts-event-host-corporate-host-05",
+    "name": "Sneha Facilitate",
+    "category": "Hosts/Emcees",
+    "subCategory": ["Event Host", "Corporate Host"],
+    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Facilitate",
+    "location": "Kolkata",
+    "priceRange": "Quote Based",
+    "rating": 4.3
+  },
+  {
+    "id": "hosts-tv-anchor-wedding-emcee-06",
+    "name": "Vikram Spark",
+    "category": "Hosts/Emcees",
+    "subCategory": ["TV Anchor", "Wedding Emcee"],
+    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Spark",
+    "location": "Hyderabad",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.6
+  },
+  {
+    "id": "hosts-corporate-host-tv-anchor-07",
+    "name": "Meera Charm",
+    "category": "Hosts/Emcees",
+    "subCategory": ["Corporate Host", "TV Anchor"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Charm",
+    "location": "Pune",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.0
+  },
+  {
+    "id": "hosts-wedding-emcee-event-host-08",
+    "name": "Rohit Voice",
+    "category": "Hosts/Emcees",
+    "subCategory": ["Wedding Emcee", "Event Host"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Voice",
+    "location": "Ahmedabad",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.8
+  },
+  {
+    "id": "hosts-event-host-wedding-emcee-09",
+    "name": "Divya Convene",
+    "category": "Hosts/Emcees",
+    "subCategory": ["Event Host", "Wedding Emcee"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Convene",
+    "location": "Goa",
+    "priceRange": "Quote Based",
+    "rating": 4.2
+  },
+  {
+    "id": "hosts-tv-anchor-corporate-host-10",
+    "name": "Karan Facilitate",
+    "category": "Hosts/Emcees",
+    "subCategory": ["TV Anchor", "Corporate Host"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Facilitate",
+    "location": "Chandigarh",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.7
+  },
+  {
+    "id": "influencers-lifestyle-travel-01",
+    "name": "Aisha Trend",
+    "category": "Influencers",
+    "subCategory": ["Lifestyle", "Travel"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Trend",
+    "location": "Kochi",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.5
+  },
+  {
+    "id": "influencers-fashion-tech-02",
+    "name": "Rahul Vibe",
+    "category": "Influencers",
+    "subCategory": ["Fashion", "Tech"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Vibe",
+    "location": "Surat",
+    "priceRange": "$5,000+",
+    "rating": 4.9
+  },
+  {
+    "id": "influencers-food-lifestyle-03",
+    "name": "Priya Connect",
+    "category": "Influencers",
+    "subCategory": ["Food", "Lifestyle"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Connect",
+    "location": "Bhopal",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.1
+  },
+  {
+    "id": "influencers-travel-fashion-04",
+    "name": "Arjun Reach",
+    "category": "Influencers",
+    "subCategory": ["Travel", "Fashion"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Reach",
+    "location": "Mumbai",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.7
+  },
+  {
+    "id": "influencers-tech-food-05",
+    "name": "Sneha Gurus",
+    "category": "Influencers",
+    "subCategory": ["Tech", "Food"],
+    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Gurus",
+    "location": "Delhi",
+    "priceRange": "Quote Based",
+    "rating": 4.3
+  },
+  {
+    "id": "influencers-lifestyle-fashion-06",
+    "name": "Vikram Trend",
+    "category": "Influencers",
+    "subCategory": ["Lifestyle", "Fashion"],
+    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Trend",
+    "location": "Bangalore",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.6
+  },
+  {
+    "id": "influencers-travel-tech-07",
+    "name": "Meera Vibe",
+    "category": "Influencers",
+    "subCategory": ["Travel", "Tech"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Vibe",
+    "location": "Chennai",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.0
+  },
+  {
+    "id": "influencers-food-travel-08",
+    "name": "Rohit Connect",
+    "category": "Influencers",
+    "subCategory": ["Food", "Travel"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Connect",
+    "location": "Kolkata",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.8
+  },
+  {
+    "id": "influencers-tech-lifestyle-09",
+    "name": "Divya Reach",
+    "category": "Influencers",
+    "subCategory": ["Tech", "Lifestyle"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Reach",
+    "location": "Hyderabad",
+    "priceRange": "Quote Based",
+    "rating": 4.2
+  },
+  {
+    "id": "influencers-fashion-food-10",
+    "name": "Karan Gurus",
+    "category": "Influencers",
+    "subCategory": ["Fashion", "Food"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Gurus",
+    "location": "Pune",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.7
+  },
+  {
+    "id": "youtubers-comedy-vlogging-01",
+    "name": "Aisha Clip",
+    "category": "YouTubers",
+    "subCategory": ["Comedy", "Vlogging"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Clip",
+    "location": "Ahmedabad",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.5
+  },
+  {
+    "id": "youtubers-education-gaming-02",
+    "name": "Rahul Tube",
+    "category": "YouTubers",
+    "subCategory": ["Education", "Gaming"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Tube",
+    "location": "Goa",
+    "priceRange": "$5,000+",
+    "rating": 4.9
+  },
+  {
+    "id": "youtubers-diy-comedy-03",
+    "name": "Priya Stream",
+    "category": "YouTubers",
+    "subCategory": ["DIY", "Comedy"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Stream",
+    "location": "Chandigarh",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.1
+  },
+  {
+    "id": "youtubers-vlogging-education-04",
+    "name": "Arjun Pixel",
+    "category": "YouTubers",
+    "subCategory": ["Vlogging", "Education"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Pixel",
+    "location": "Kochi",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.7
+  },
+  {
+    "id": "youtubers-gaming-diy-05",
+    "name": "Sneha View",
+    "category": "YouTubers",
+    "subCategory": ["Gaming", "DIY"],
+    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+View",
+    "location": "Surat",
+    "priceRange": "Quote Based",
+    "rating": 4.3
+  },
+  {
+    "id": "youtubers-comedy-education-06",
+    "name": "Vikram Clip",
+    "category": "YouTubers",
+    "subCategory": ["Comedy", "Education"],
+    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Clip",
+    "location": "Bhopal",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.6
+  },
+  {
+    "id": "youtubers-vlogging-gaming-07",
+    "name": "Meera Tube",
+    "category": "YouTubers",
+    "subCategory": ["Vlogging", "Gaming"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Tube",
+    "location": "Mumbai",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.0
+  },
+  {
+    "id": "youtubers-diy-vlogging-08",
+    "name": "Rohit Stream",
+    "category": "YouTubers",
+    "subCategory": ["DIY", "Vlogging"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Stream",
+    "location": "Delhi",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.8
+  },
+  {
+    "id": "youtubers-education-comedy-09",
+    "name": "Divya Pixel",
+    "category": "YouTubers",
+    "subCategory": ["Education", "Comedy"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Pixel",
+    "location": "Bangalore",
+    "priceRange": "Quote Based",
+    "rating": 4.2
+  },
+  {
+    "id": "youtubers-gaming-vlogging-10",
+    "name": "Karan View",
+    "category": "YouTubers",
+    "subCategory": ["Gaming", "Vlogging"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+View",
+    "location": "Chennai",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.7
+  },
+  {
+    "id": "poets-romantic-political-01",
+    "name": "Aisha Verse",
+    "category": "Poets/Spoken Word Artists",
+    "subCategory": ["Romantic", "Political"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Verse",
+    "location": "Kolkata",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.5
+  },
+  {
+    "id": "poets-narrative-slam-poetry-02",
+    "name": "Rahul Rhyme",
+    "category": "Poets/Spoken Word Artists",
+    "subCategory": ["Narrative", "Slam Poetry"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Rhyme",
+    "location": "Hyderabad",
+    "priceRange": "$5,000+",
+    "rating": 4.9
+  },
+  {
+    "id": "poets-political-romantic-03",
+    "name": "Priya Muse",
+    "category": "Poets/Spoken Word Artists",
+    "subCategory": ["Political", "Romantic"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Muse",
+    "location": "Pune",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.1
+  },
+  {
+    "id": "poets-slam-poetry-narrative-04",
+    "name": "Arjun Lyric",
+    "category": "Poets/Spoken Word Artists",
+    "subCategory": ["Slam Poetry", "Narrative"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Lyric",
+    "location": "Ahmedabad",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.7
+  },
+  {
+    "id": "poets-romantic-slam-poetry-05",
+    "name": "Sneha Spoken",
+    "category": "Poets/Spoken Word Artists",
+    "subCategory": ["Romantic", "Slam Poetry"],
+    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Spoken",
+    "location": "Goa",
+    "priceRange": "Quote Based",
+    "rating": 4.3
+  },
+  {
+    "id": "poets-political-narrative-06",
+    "name": "Vikram Verse",
+    "category": "Poets/Spoken Word Artists",
+    "subCategory": ["Political", "Narrative"],
+    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Verse",
+    "location": "Chandigarh",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.6
+  },
+  {
+    "id": "poets-narrative-romantic-07",
+    "name": "Meera Rhyme",
+    "category": "Poets/Spoken Word Artists",
+    "subCategory": ["Narrative", "Romantic"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Rhyme",
+    "location": "Kochi",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.0
+  },
+  {
+    "id": "poets-slam-poetry-political-08",
+    "name": "Rohit Muse",
+    "category": "Poets/Spoken Word Artists",
+    "subCategory": ["Slam Poetry", "Political"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Muse",
+    "location": "Surat",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.8
+  },
+  {
+    "id": "poets-romantic-narrative-09",
+    "name": "Divya Lyric",
+    "category": "Poets/Spoken Word Artists",
+    "subCategory": ["Romantic", "Narrative"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Lyric",
+    "location": "Bhopal",
+    "priceRange": "Quote Based",
+    "rating": 4.2
+  },
+  {
+    "id": "poets-political-slam-poetry-10",
+    "name": "Karan Spoken",
+    "category": "Poets/Spoken Word Artists",
+    "subCategory": ["Political", "Slam Poetry"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Spoken",
+    "location": "Mumbai",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.7
+  },
+  {
+    "id": "visual-artists-live-painting-graffiti-01",
+    "name": "Aisha Canvas",
+    "category": "Visual Artists",
+    "subCategory": ["Live Painting", "Graffiti"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Canvas",
+    "location": "Delhi",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.5
+  },
+  {
+    "id": "visual-artists-sand-art-speed-painting-02",
+    "name": "Rahul Palette",
+    "category": "Visual Artists",
+    "subCategory": ["Sand Art", "Speed Painting"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Palette",
+    "location": "Bangalore",
+    "priceRange": "$5,000+",
+    "rating": 4.9
+  },
+  {
+    "id": "visual-artists-graffiti-live-painting-03",
+    "name": "Priya Brush",
+    "category": "Visual Artists",
+    "subCategory": ["Graffiti", "Live Painting"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Brush",
+    "location": "Chennai",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.1
+  },
+  {
+    "id": "visual-artists-speed-painting-sand-art-04",
+    "name": "Arjun Vision",
+    "category": "Visual Artists",
+    "subCategory": ["Speed Painting", "Sand Art"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Vision",
+    "location": "Kolkata",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.7
+  },
+  {
+    "id": "visual-artists-live-painting-sand-art-05",
+    "name": "Sneha Masterpiece",
+    "category": "Visual Artists",
+    "subCategory": ["Live Painting", "Sand Art"],
+    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Masterpiece",
+    "location": "Hyderabad",
+    "priceRange": "Quote Based",
+    "rating": 4.3
+  },
+  {
+    "id": "visual-artists-graffiti-speed-painting-06",
+    "name": "Vikram Canvas",
+    "category": "Visual Artists",
+    "subCategory": ["Graffiti", "Speed Painting"],
+    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Canvas",
+    "location": "Pune",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.6
+  },
+  {
+    "id": "visual-artists-sand-art-graffiti-07",
+    "name": "Meera Palette",
+    "category": "Visual Artists",
+    "subCategory": ["Sand Art", "Graffiti"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Palette",
+    "location": "Ahmedabad",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.0
+  },
+  {
+    "id": "visual-artists-speed-painting-live-painting-08",
+    "name": "Rohit Brush",
+    "category": "Visual Artists",
+    "subCategory": ["Speed Painting", "Live Painting"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Brush",
+    "location": "Goa",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.8
+  },
+  {
+    "id": "visual-artists-live-painting-graffiti-09",
+    "name": "Divya Vision",
+    "category": "Visual Artists",
+    "subCategory": ["Live Painting", "Graffiti"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Vision",
+    "location": "Chandigarh",
+    "priceRange": "Quote Based",
+    "rating": 4.2
+  },
+  {
+    "id": "visual-artists-sand-art-speed-painting-10",
+    "name": "Karan Masterpiece",
+    "category": "Visual Artists",
+    "subCategory": ["Sand Art", "Speed Painting"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Masterpiece",
+    "location": "Kochi",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.7
+  },
+  {
+    "id": "specialty-acts-stunt-performers-fire-acts-01",
+    "name": "Aisha Dare",
+    "category": "Specialty Acts",
+    "subCategory": ["Stunt Performers", "Fire Acts"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Dare",
+    "location": "Surat",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.5
+  },
+  {
+    "id": "specialty-acts-led-acts-aerial-artists-02",
+    "name": "Rahul Flame",
+    "category": "Specialty Acts",
+    "subCategory": ["LED Acts", "Aerial Artists"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Flame",
+    "location": "Bhopal",
+    "priceRange": "$5,000+",
+    "rating": 4.9
+  },
+  {
+    "id": "specialty-acts-puppetry-stunt-performers-03",
+    "name": "Priya Glow",
+    "category": "Specialty Acts",
+    "subCategory": ["Puppetry", "Stunt Performers"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Glow",
+    "location": "Mumbai",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.1
+  },
+  {
+    "id": "specialty-acts-fire-acts-led-acts-04",
+    "name": "Arjun Air",
+    "category": "Specialty Acts",
+    "subCategory": ["Fire Acts", "LED Acts"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Air",
+    "location": "Delhi",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.7
+  },
+  {
+    "id": "specialty-acts-aerial-artists-puppetry-05",
+    "name": "Sneha Marionette",
+    "category": "Specialty Acts",
+    "subCategory": ["Aerial Artists", "Puppetry"],
+    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Marionette",
+    "location": "Bangalore",
+    "priceRange": "Quote Based",
+    "rating": 4.3
+  },
+  {
+    "id": "specialty-acts-stunt-performers-led-acts-06",
+    "name": "Vikram Dare",
+    "category": "Specialty Acts",
+    "subCategory": ["Stunt Performers", "LED Acts"],
+    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Dare",
+    "location": "Chennai",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.6
+  },
+  {
+    "id": "specialty-acts-fire-acts-aerial-artists-07",
+    "name": "Meera Flame",
+    "category": "Specialty Acts",
+    "subCategory": ["Fire Acts", "Aerial Artists"],
+    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Flame",
+    "location": "Kolkata",
+    "priceRange": "$3,000 - $5,000",
+    "rating": 4.0
+  },
+  {
+    "id": "specialty-acts-puppetry-fire-acts-08",
+    "name": "Rohit Glow",
+    "category": "Specialty Acts",
+    "subCategory": ["Puppetry", "Fire Acts"],
+    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Glow",
+    "location": "Hyderabad",
+    "priceRange": "$500 - $1,500",
+    "rating": 4.8
+  },
+  {
+    "id": "specialty-acts-led-acts-stunt-performers-09",
+    "name": "Divya Air",
+    "category": "Specialty Acts",
+    "subCategory": ["LED Acts", "Stunt Performers"],
+    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Air",
+    "location": "Pune",
+    "priceRange": "Quote Based",
+    "rating": 4.2
+  },
+  {
+    "id": "specialty-acts-aerial-artists-fire-acts-10",
+    "name": "Karan Marionette",
+    "category": "Specialty Acts",
+    "subCategory": ["Aerial Artists", "Fire Acts"],
+    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Marionette",
+    "location": "Ahmedabad",
+    "priceRange": "$1,500 - $3,000",
+    "rating": 4.7
+  }
+]

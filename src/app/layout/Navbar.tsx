@@ -24,7 +24,7 @@ const Navbar = () => {
         {/* Dashboard Button */}
         <div>
           <a
-            href="/app/dashboard"
+            href="/dashboard"
             className="px-6 py-2 border border-black rounded-full bg-slate-300 text-black hover:bg-slate-500 transition duration-300"
           >
             Dashboard

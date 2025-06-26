@@ -1,15 +1,5 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
-
-type Artist = {
-  id: string;
-  name: string;
-  genre: string;
-  image: string;
-  bio: string;
-  location?: string;
-  priceRange?: string;
-  rating?: number;
-};
+import { Artist } from "./types/artist";
 
 interface ArtistState {
   artists: Artist[];

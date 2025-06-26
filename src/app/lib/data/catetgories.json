@@ -1,0 +1,77 @@
+[
+  {
+    "category": "Singers",
+    "slug": "singers",
+    "subCategories": ["Pop", "Classical", "Bollywood", "Indie", "Rap", "Opera"]
+  },
+  {
+    "category": "Dancers",
+    "slug": "dancers",
+    "subCategories": ["Hip-Hop", "Classical", "Contemporary", "Ballet", "Folk"]
+  },
+  {
+    "category": "DJs",
+    "slug": "djs",
+    "subCategories": ["Wedding DJ", "Club DJ", "EDM", "Techno", "Retro"]
+  },
+  {
+    "category": "Comedians",
+    "slug": "comedians",
+    "subCategories": ["Stand-up", "Sketch", "Improv", "Roast", "Satirical"]
+  },
+  {
+    "category": "Speakers",
+    "slug": "speakers",
+    "subCategories": ["Motivational", "Educational", "Celebrity", "Corporate", "Spiritual"]
+  },
+  {
+    "category": "Magicians",
+    "slug": "magicians",
+    "subCategories": ["Illusionist", "Mentalist", "Close-Up", "Stage", "Kids Shows"]
+  },
+  {
+    "category": "Instrumentalists",
+    "slug": "instrumentalists",
+    "subCategories": ["Guitarists", "Pianists", "Drummers", "Violinists", "Flutists"]
+  },
+  {
+    "category": "Theatre Artists",
+    "slug": "theatre-artists",
+    "subCategories": ["Drama", "Mime", "Street Play", "Monologue"]
+  },
+  {
+    "category": "Models",
+    "slug": "models",
+    "subCategories": ["Fashion", "Commercial", "Runway", "Fitness"]
+  },
+  {
+    "category": "Hosts/Emcees",
+    "slug": "hosts",
+    "subCategories": ["Event Host", "TV Anchor", "Corporate Host", "Wedding Emcee"]
+  },
+  {
+    "category": "Influencers",
+    "slug": "influencers",
+    "subCategories": ["Lifestyle", "Travel", "Fashion", "Tech", "Food"]
+  },
+  {
+    "category": "YouTubers",
+    "slug": "youtubers",
+    "subCategories": ["Comedy", "Vlogging", "Education", "Gaming", "DIY"]
+  },
+  {
+    "category": "Poets/Spoken Word Artists",
+    "slug": "poets",
+    "subCategories": ["Romantic", "Political", "Narrative", "Slam Poetry"]
+  },
+  {
+    "category": "Visual Artists",
+    "slug": "visual-artists",
+    "subCategories": ["Live Painting", "Graffiti", "Sand Art", "Speed Painting"]
+  },
+  {
+    "category": "Specialty Acts",
+    "slug": "specialty",
+    "subCategories": ["Stunt Performers", "Fire Acts", "LED Acts", "Aerial Artists", "Puppetry"]
+  }
+]
