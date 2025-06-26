@@ -7,7 +7,8 @@ export interface Artist {
   location?: string;
   priceRange?: string;
   rating?: number;
-  
+  bio:string;
+  languagesSpoken:string[];
 }
 
 

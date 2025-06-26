@@ -14,17 +14,7 @@ import { useRouter, useSearchParams } from 'next/navigation';
 import categories from '@/app/lib/data/catetgories.json';
 import { ArtistCategory } from '@/store/types/category';
 import { v4 as uuidv4 } from 'uuid';
-
-type Artist = {
-  id: string;
-  name: string;
-  image: string;
-  category: string;
-  subCategory: string[];
-  priceRange: string;
-  location: string;
-  rating: number;
-};
+import { Artist } from '@/store/types/artist';
 
 const priceRanges = ['5000-10000', '10000-20000', '20000-40000', '40000-80000', '100000'];
 const locations = ['Pune','Mumbai', 'Delhi', 'Bengaluru', 'Hyderabad', 'Chennai', 'Goa'];
@@ -160,6 +150,8 @@ const Page = () => {
             priceRange={artist.priceRange}
             location={artist.location}
             rating={artist.rating}
+            bio={artist.bio}
+            languagesSpoken={artist.languagesSpoken}
           />
         ))}
       </div>

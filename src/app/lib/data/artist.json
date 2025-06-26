@@ -4,1499 +4,1799 @@
     "name": "Aisha Melody",
     "category": "Singers",
     "subCategory": ["Pop", "Bollywood"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Melody",
+    "image": "",
     "location": "Pune",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.5
+    "priceRange": "10000-20000",
+    "rating": 4.5,
+    "bio": "A dynamic singer with a captivating stage presence, specializing in energetic Pop and soulful Bollywood renditions.",
+    "languagesSpoken": ["Hindi", "English", "Marathi"]
   },
   {
     "id": "singers-classical-indie-02",
     "name": "Rahul Harmony",
     "category": "Singers",
     "subCategory": ["Classical", "Indie"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Harmony",
+    "image": "",
     "location": "Lucknow",
-    "priceRange": "$5,000+",
-    "rating": 4.9
+    "priceRange": "40000-80000",
+    "rating": 4.9,
+    "bio": "Known for his rich classical training blended with modern Indie sounds, offering a unique auditory experience.",
+    "languagesSpoken": ["Hindi", "English", "Urdu"]
   },
   {
     "id": "singers-rap-opera-03",
     "name": "Priya Sound",
     "category": "Singers",
     "subCategory": ["Rap", "Opera"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Sound",
+    "image": "",
     "location": "Hyderabad",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.1
+    "priceRange": "20000-40000",
+    "rating": 4.1,
+    "bio": "An experimental artist pushing boundaries, combining powerful operatic vocals with cutting-edge rap beats.",
+    "languagesSpoken": ["Telugu", "English", "Hindi"]
   },
   {
     "id": "singers-pop-classical-04",
     "name": "Arjun Voice",
     "category": "Singers",
     "subCategory": ["Pop", "Classical"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Voice",
+    "image": "",
     "location": "Jaipur",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.7
+    "priceRange": "5000-10000",
+    "rating": 4.7,
+    "bio": "Versatile vocalist who can effortlessly switch between vibrant Pop anthems and intricate Classical pieces.",
+    "languagesSpoken": ["Hindi", "English", "Rajasthani"]
   },
   {
     "id": "singers-bollywood-indie-05",
     "name": "Sneha Rhythm",
     "category": "Singers",
     "subCategory": ["Bollywood", "Indie"],
-    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Rhythm",
+    "image": "",
     "location": "Kolkata",
-    "priceRange": "Quote Based",
-    "rating": 4.3
+    "priceRange": "100000",
+    "rating": 4.3,
+    "bio": "A rising star renowned for her emotive Bollywood playback singing and refreshing Indie acoustic sets.",
+    "languagesSpoken": ["Bengali", "English", "Hindi"]
   },
   {
     "id": "singers-rap-pop-06",
     "name": "Vikram Harmony",
     "category": "Singers",
     "subCategory": ["Rap", "Pop"],
-    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Harmony",
+    "image": "",
     "location": "Mumbai",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.6
+    "priceRange": "10000-20000",
+    "rating": 4.6,
+    "bio": "A high-energy performer who fuses lyrical Rap with catchy Pop melodies, guaranteed to get the crowd moving.",
+    "languagesSpoken": ["Hindi", "English", "Marathi"]
   },
   {
     "id": "singers-opera-classical-07",
     "name": "Meera Sound",
     "category": "Singers",
     "subCategory": ["Opera", "Classical"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Sound",
+    "image": "",
     "location": "Delhi",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.0
+    "priceRange": "20000-40000",
+    "rating": 4.0,
+    "bio": "A classically trained Opera singer with a mesmerizing voice, bringing sophistication to any event.",
+    "languagesSpoken": ["Hindi", "English", "Urdu"]
   },
   {
     "id": "singers-bollywood-rap-08",
     "name": "Rohit Voice",
     "category": "Singers",
     "subCategory": ["Bollywood", "Rap"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Voice",
+    "image": "",
     "location": "Bangalore",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.8
+    "priceRange": "5000-10000",
+    "rating": 4.8,
+    "bio": "Blends the vibrant energy of Bollywood hits with sharp, contemporary rap verses for a unique show.",
+    "languagesSpoken": ["Kannada", "English", "Hindi"]
   },
   {
     "id": "singers-indie-opera-09",
     "name": "Divya Rhythm",
     "category": "Singers",
     "subCategory": ["Indie", "Opera"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Rhythm",
+    "image": "",
     "location": "Chennai",
-    "priceRange": "Quote Based",
-    "rating": 4.2
+    "priceRange": "100000",
+    "rating": 4.2,
+    "bio": "An innovative artist combining the raw emotion of Indie music with the dramatic flair of Opera.",
+    "languagesSpoken": ["Tamil", "English", "Hindi"]
   },
   {
     "id": "singers-pop-indie-10",
     "name": "Karan Melody",
     "category": "Singers",
     "subCategory": ["Pop", "Indie"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Melody",
+    "image": "",
     "location": "Ahmedabad",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.7
+    "priceRange": "10000-20000",
+    "rating": 4.7,
+    "bio": "Creates a feel-good atmosphere with his catchy Pop tunes and introspective Indie ballads.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "dancers-hip-hop-classical-01",
     "name": "Aisha Grace",
     "category": "Dancers",
     "subCategory": ["Hip-Hop", "Classical"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Grace",
+    "image": "",
     "location": "Bangalore",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.5
+    "priceRange": "10000-20000",
+    "rating": 4.5,
+    "bio": "A mesmerizing dancer who seamlessly transitions between the sharp moves of Hip-Hop and the elegance of Classical forms.",
+    "languagesSpoken": ["Kannada", "English", "Hindi"]
   },
   {
     "id": "dancers-contemporary-ballet-02",
     "name": "Rahul Movement",
     "category": "Dancers",
     "subCategory": ["Contemporary", "Ballet"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Movement",
+    "image": "",
     "location": "Chennai",
-    "priceRange": "$5,000+",
-    "rating": 4.9
+    "priceRange": "40000-80000",
+    "rating": 4.9,
+    "bio": "His performances are a beautiful blend of fluid contemporary dance and the disciplined grace of ballet.",
+    "languagesSpoken": ["Tamil", "English", "Hindi"]
   },
   {
     "id": "dancers-folk-hip-hop-03",
     "name": "Priya Flow",
     "category": "Dancers",
     "subCategory": ["Folk", "Hip-Hop"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Flow",
+    "image": "",
     "location": "Kolkata",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.1
+    "priceRange": "20000-40000",
+    "rating": 4.1,
+    "bio": "An energetic dancer bringing traditional Folk rhythms together with modern Hip-Hop beats.",
+    "languagesSpoken": ["Bengali", "English", "Hindi"]
   },
   {
     "id": "dancers-classical-contemporary-04",
     "name": "Arjun Tempo",
     "category": "Dancers",
     "subCategory": ["Classical", "Contemporary"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Tempo",
+    "image": "",
     "location": "Hyderabad",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.7
+    "priceRange": "5000-10000",
+    "rating": 4.7,
+    "bio": "A versatile artist who excels in both the intricate storytelling of Classical dance and the expressive nature of Contemporary.",
+    "languagesSpoken": ["Telugu", "English", "Hindi"]
   },
   {
     "id": "dancers-ballet-folk-05",
     "name": "Sneha Stride",
     "category": "Dancers",
     "subCategory": ["Ballet", "Folk"],
-    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Stride",
+    "image": "",
     "location": "Pune",
-    "priceRange": "Quote Based",
-    "rating": 4.3
+    "priceRange": "100000",
+    "rating": 4.3,
+    "bio": "Offers captivating performances that fuse the precise movements of Ballet with the vibrant storytelling of Folk dances.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "dancers-hip-hop-ballet-06",
     "name": "Vikram Grace",
     "category": "Dancers",
     "subCategory": ["Hip-Hop", "Ballet"],
-    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Grace",
+    "image": "",
     "location": "Ahmedabad",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.6
+    "priceRange": "10000-20000",
+    "rating": 4.6,
+    "bio": "A unique talent who merges the raw energy of Hip-Hop with the disciplined elegance of Ballet.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "dancers-contemporary-folk-07",
     "name": "Meera Movement",
     "category": "Dancers",
     "subCategory": ["Contemporary", "Folk"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Movement",
+    "image": "",
     "location": "Goa",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.0
+    "priceRange": "20000-40000",
+    "rating": 4.0,
+    "bio": "Delivers expressive Contemporary routines inspired by the rich cultural narratives of Folk dance.",
+    "languagesSpoken": ["Konkani", "English", "Hindi"]
   },
   {
     "id": "dancers-classical-hip-hop-08",
     "name": "Rohit Flow",
     "category": "Dancers",
     "subCategory": ["Classical", "Hip-Hop"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Flow",
+    "image": "",
     "location": "Chandigarh",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.8
+    "priceRange": "5000-10000",
+    "rating": 4.8,
+    "bio": "A groundbreaking artist who fuses the intricate footwork of Classical dance with the dynamic movements of Hip-Hop.",
+    "languagesSpoken": ["Punjabi", "English", "Hindi"]
   },
   {
     "id": "dancers-ballet-contemporary-09",
     "name": "Divya Tempo",
     "category": "Dancers",
     "subCategory": ["Ballet", "Contemporary"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Tempo",
+    "image": "",
     "location": "Kochi",
-    "priceRange": "Quote Based",
-    "rating": 4.2
+    "priceRange": "100000",
+    "rating": 4.2,
+    "bio": "Her performances offer a graceful and emotional journey, blending classical Ballet with modern Contemporary expressions.",
+    "languagesSpoken": ["Malayalam", "English", "Hindi"]
   },
   {
     "id": "dancers-folk-classical-10",
     "name": "Karan Stride",
     "category": "Dancers",
     "subCategory": ["Folk", "Classical"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Stride",
+    "image": "",
     "location": "Surat",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.7
+    "priceRange": "10000-20000",
+    "rating": 4.7,
+    "bio": "Showcases the rich heritage of Folk dances combined with the disciplined beauty of Classical forms.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "djs-wedding-club-dj-01",
     "name": "Aisha Beat",
     "category": "DJs",
     "subCategory": ["Wedding DJ", "Club DJ"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Beat",
+    "image": "",
     "location": "Pune",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.5
+    "priceRange": "10000-20000",
+    "rating": 4.5,
+    "bio": "A versatile DJ perfect for weddings and club nights, spinning everything from classic hits to modern beats.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "djs-edm-techno-02",
     "name": "Rahul Spin",
     "category": "DJs",
     "subCategory": ["EDM", "Techno"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Spin",
+    "image": "",
     "location": "Ahmedabad",
-    "priceRange": "$5,000+",
-    "rating": 4.9
+    "priceRange": "40000-80000",
+    "rating": 4.9,
+    "bio": "Specializes in high-energy EDM and pulsating Techno sets, creating an unforgettable party atmosphere.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "djs-retro-wedding-dj-03",
     "name": "Priya Mix",
     "category": "DJs",
     "subCategory": ["Retro", "Wedding DJ"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Mix",
+    "image": "",
     "location": "Goa",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.1
+    "priceRange": "20000-40000",
+    "rating": 4.1,
+    "bio": "Brings a nostalgic vibe with classic Retro tunes, while also excelling as a fun-loving Wedding DJ.",
+    "languagesSpoken": ["Konkani", "English", "Hindi"]
   },
   {
     "id": "djs-club-edm-04",
     "name": "Arjun Pulse",
     "category": "DJs",
     "subCategory": ["Club DJ", "EDM"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Pulse",
+    "image": "",
     "location": "Chandigarh",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.7
+    "priceRange": "5000-10000",
+    "rating": 4.7,
+    "bio": "A master of the decks, delivering electrifying sets for clubbers and EDM enthusiasts alike.",
+    "languagesSpoken": ["Punjabi", "English", "Hindi"]
   },
   {
     "id": "djs-techno-retro-05",
     "name": "Sneha Sonic",
     "category": "DJs",
     "subCategory": ["Techno", "Retro"],
-    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Sonic",
+    "image": "",
     "location": "Kochi",
-    "priceRange": "Quote Based",
-    "rating": 4.3
+    "priceRange": "100000",
+    "rating": 4.3,
+    "bio": "Offers a dynamic range from deep Techno grooves to nostalgic Retro anthems, catering to diverse crowds.",
+    "languagesSpoken": ["Malayalam", "English", "Hindi"]
   },
   {
     "id": "djs-wedding-edm-06",
     "name": "Vikram Beat",
     "category": "DJs",
     "subCategory": ["Wedding DJ", "EDM"],
-    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Beat",
+    "image": "",
     "location": "Surat",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.6
+    "priceRange": "10000-20000",
+    "rating": 4.6,
+    "bio": "The perfect blend of high-energy EDM sets for festivals and polished mixes for elegant weddings.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "djs-club-techno-07",
     "name": "Meera Spin",
     "category": "DJs",
     "subCategory": ["Club DJ", "Techno"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Spin",
+    "image": "",
     "location": "Bhopal",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.0
+    "priceRange": "20000-40000",
+    "rating": 4.0,
+    "bio": "Known for her immersive club sets and intricate Techno productions, keeping the dance floor alive.",
+    "languagesSpoken": ["Hindi", "English", "Urdu"]
   },
   {
     "id": "djs-retro-club-08",
     "name": "Rohit Mix",
     "category": "DJs",
     "subCategory": ["Retro", "Club DJ"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Mix",
+    "image": "",
     "location": "Mumbai",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.8
+    "priceRange": "5000-10000",
+    "rating": 4.8,
+    "bio": "A favorite for both nostalgic Retro nights and vibrant Club events, with seamless transitions.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "djs-edm-wedding-09",
     "name": "Divya Pulse",
     "category": "DJs",
     "subCategory": ["EDM", "Wedding DJ"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Pulse",
+    "image": "",
     "location": "Delhi",
-    "priceRange": "Quote Based",
-    "rating": 4.2
+    "priceRange": "100000",
+    "rating": 4.2,
+    "bio": "Delivering high-octane EDM drops at festivals and refined, crowd-pleasing mixes at weddings.",
+    "languagesSpoken": ["Hindi", "English", "Punjabi"]
   },
   {
     "id": "djs-techno-club-10",
     "name": "Karan Sonic",
     "category": "DJs",
     "subCategory": ["Techno", "Club DJ"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Sonic",
+    "image": "",
     "location": "Bangalore",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.7
+    "priceRange": "10000-20000",
+    "rating": 4.7,
+    "bio": "A sought-after DJ for underground Techno scenes and mainstream club events, known for deep, driving beats.",
+    "languagesSpoken": ["Kannada", "English", "Hindi"]
   },
   {
     "id": "comedians-stand-up-sketch-01",
     "name": "Aisha Laughs",
     "category": "Comedians",
     "subCategory": ["Stand-up", "Sketch"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Laughs",
+    "image": "",
     "location": "Kochi",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.5
+    "priceRange": "10000-20000",
+    "rating": 4.5,
+    "bio": "A comedic powerhouse, delivering sharp Stand-up routines and hilarious Sketch comedy acts.",
+    "languagesSpoken": ["Malayalam", "English", "Hindi"]
   },
   {
     "id": "comedians-improv-roast-02",
     "name": "Rahul Giggle",
     "category": "Comedians",
     "subCategory": ["Improv", "Roast"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Giggle",
+    "image": "",
     "location": "Surat",
-    "priceRange": "$5,000+",
-    "rating": 4.9
+    "priceRange": "40000-80000",
+    "rating": 4.9,
+    "bio": "Quick-witted and fearless, excelling in spontaneous Improv and sharp-tongued Roasts.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "comedians-satirical-stand-up-03",
     "name": "Priya Jest",
     "category": "Comedians",
     "subCategory": ["Satirical", "Stand-up"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Jest",
+    "image": "",
     "location": "Bhopal",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.1
+    "priceRange": "20000-40000",
+    "rating": 4.1,
+    "bio": "Her comedy provides insightful Satirical commentary wrapped in highly engaging Stand-up sets.",
+    "languagesSpoken": ["Hindi", "English", "Urdu"]
   },
   {
     "id": "comedians-sketch-improv-04",
     "name": "Arjun Quip",
     "category": "Comedians",
     "subCategory": ["Sketch", "Improv"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Quip",
+    "image": "",
     "location": "Mumbai",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.7
+    "priceRange": "5000-10000",
+    "rating": 4.7,
+    "bio": "A master of comedic timing, bringing characters to life in Sketch comedy and quick thinking in Improv.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "comedians-roast-satirical-05",
     "name": "Sneha Chuckles",
     "category": "Comedians",
     "subCategory": ["Roast", "Satirical"],
-    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Chuckles",
+    "image": "",
     "location": "Delhi",
-    "priceRange": "Quote Based",
-    "rating": 4.3
+    "priceRange": "100000",
+    "rating": 4.3,
+    "bio": "Fearlessly takes on topical subjects with sharp Satirical humor and delivers unforgettable Roasts.",
+    "languagesSpoken": ["Hindi", "English", "Punjabi"]
   },
   {
     "id": "comedians-stand-up-roast-06",
     "name": "Vikram Laughs",
     "category": "Comedians",
     "subCategory": ["Stand-up", "Roast"],
-    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Laughs",
+    "image": "",
     "location": "Bangalore",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.6
+    "priceRange": "10000-20000",
+    "rating": 4.6,
+    "bio": "Delivers a punchy Stand-up show with a knack for audience interaction and hilarious Roasts.",
+    "languagesSpoken": ["Kannada", "English", "Hindi"]
   },
   {
     "id": "comedians-improv-satirical-07",
     "name": "Meera Giggle",
     "category": "Comedians",
     "subCategory": ["Improv", "Satirical"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Giggle",
+    "image": "",
     "location": "Chennai",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.0
+    "priceRange": "20000-40000",
+    "rating": 4.0,
+    "bio": "Her performances are a witty and spontaneous exploration of current events through Improv and Satirical bits.",
+    "languagesSpoken": ["Tamil", "English", "Hindi"]
   },
   {
     "id": "comedians-sketch-stand-up-08",
     "name": "Rohit Jest",
     "category": "Comedians",
     "subCategory": ["Sketch", "Stand-up"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Jest",
+    "image": "",
     "location": "Kolkata",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.8
+    "priceRange": "5000-10000",
+    "rating": 4.8,
+    "bio": "Combines expertly crafted Sketch comedy with relatable Stand-up observations, ensuring continuous laughter.",
+    "languagesSpoken": ["Bengali", "English", "Hindi"]
   },
   {
     "id": "comedians-roast-improv-09",
     "name": "Divya Quip",
     "category": "Comedians",
     "subCategory": ["Roast", "Improv"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Quip",
+    "image": "",
     "location": "Hyderabad",
-    "priceRange": "Quote Based",
-    "rating": 4.2
+    "priceRange": "100000",
+    "rating": 4.2,
+    "bio": "Known for her razor-sharp wit in Roasts and incredible adaptability in Improv scenarios.",
+    "languagesSpoken": ["Telugu", "English", "Hindi"]
   },
   {
     "id": "comedians-satirical-sketch-10",
     "name": "Karan Chuckles",
     "category": "Comedians",
     "subCategory": ["Satirical", "Sketch"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Chuckles",
+    "image": "",
     "location": "Pune",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.7
+    "priceRange": "10000-20000",
+    "rating": 4.7,
+    "bio": "Delivers intelligent Satirical commentary through engaging Sketch acts, leaving audiences in stitches.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "speakers-motivational-educational-01",
     "name": "Aisha Eloquence",
     "category": "Speakers",
     "subCategory": ["Motivational", "Educational"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Eloquence",
+    "image": "",
     "location": "Delhi",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.5
+    "priceRange": "10000-20000",
+    "rating": 4.5,
+    "bio": "An inspiring speaker who combines Motivational insights with valuable Educational content, empowering audiences.",
+    "languagesSpoken": ["Hindi", "English", "Urdu"]
   },
   {
     "id": "speakers-celebrity-corporate-02",
     "name": "Rahul Insight",
     "category": "Speakers",
     "subCategory": ["Celebrity", "Corporate"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Insight",
+    "image": "",
     "location": "Bangalore",
-    "priceRange": "$5,000+",
-    "rating": 4.9
+    "priceRange": "40000-80000",
+    "rating": 4.9,
+    "bio": "A well-known Celebrity speaker, highly sought after for his profound insights and engaging Corporate presentations.",
+    "languagesSpoken": ["Kannada", "English", "Hindi"]
   },
   {
     "id": "speakers-spiritual-motivational-03",
     "name": "Priya Clarity",
     "category": "Speakers",
     "subCategory": ["Spiritual", "Motivational"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Clarity",
+    "image": "",
     "location": "Chennai",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.1
+    "priceRange": "20000-40000",
+    "rating": 4.1,
+    "bio": "Offers deeply moving Spiritual guidance and uplifting Motivational talks, fostering inner growth.",
+    "languagesSpoken": ["Tamil", "English", "Hindi"]
   },
   {
     "id": "speakers-educational-celebrity-04",
     "name": "Arjun Vision",
     "category": "Speakers",
     "subCategory": ["Educational", "Celebrity"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Vision",
+    "image": "",
     "location": "Kolkata",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.7
+    "priceRange": "5000-10000",
+    "rating": 4.7,
+    "bio": "A renowned Celebrity speaker who delivers insightful Educational content in an engaging and accessible manner.",
+    "languagesSpoken": ["Bengali", "English", "Hindi"]
   },
   {
     "id": "speakers-corporate-spiritual-05",
     "name": "Sneha Impact",
     "category": "Speakers",
     "subCategory": ["Corporate", "Spiritual"],
-    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Impact",
+    "image": "",
     "location": "Hyderabad",
-    "priceRange": "Quote Based",
-    "rating": 4.3
+    "priceRange": "100000",
+    "rating": 4.3,
+    "bio": "Brings a unique blend of strategic Corporate insights and profound Spiritual wisdom to her addresses.",
+    "languagesSpoken": ["Telugu", "English", "Hindi"]
   },
   {
     "id": "speakers-motivational-corporate-06",
     "name": "Vikram Eloquence",
     "category": "Speakers",
     "subCategory": ["Motivational", "Corporate"],
-    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Eloquence",
+    "image": "",
     "location": "Pune",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.6
+    "priceRange": "10000-20000",
+    "rating": 4.6,
+    "bio": "A dynamic speaker known for his powerful Motivational speeches and sharp Corporate presentations.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "speakers-celebrity-educational-07",
     "name": "Meera Insight",
     "category": "Speakers",
     "subCategory": ["Celebrity", "Educational"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Insight",
+    "image": "",
     "location": "Ahmedabad",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.0
+    "priceRange": "20000-40000",
+    "rating": 4.0,
+    "bio": "A sought-after Celebrity who educates and inspires with her captivating talks on various subjects.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "speakers-spiritual-celebrity-08",
     "name": "Rohit Clarity",
     "category": "Speakers",
     "subCategory": ["Spiritual", "Celebrity"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Clarity",
+    "image": "",
     "location": "Goa",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.8
+    "priceRange": "5000-10000",
+    "rating": 4.8,
+    "bio": "A profound speaker offering Spiritual guidance, known for his clear and uplifting messages.",
+    "languagesSpoken": ["Konkani", "English", "Hindi"]
   },
   {
     "id": "speakers-corporate-motivational-09",
     "name": "Divya Vision",
     "category": "Speakers",
     "subCategory": ["Corporate", "Motivational"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Vision",
+    "image": "",
     "location": "Chandigarh",
-    "priceRange": "Quote Based",
-    "rating": 4.2
+    "priceRange": "100000",
+    "rating": 4.2,
+    "bio": "Provides strategic Corporate insights with a Motivational approach, driving engagement and change.",
+    "languagesSpoken": ["Punjabi", "English", "Hindi"]
   },
   {
     "id": "speakers-educational-spiritual-10",
     "name": "Karan Impact",
     "category": "Speakers",
     "subCategory": ["Educational", "Spiritual"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Impact",
+    "image": "",
     "location": "Kochi",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.7
+    "priceRange": "10000-20000",
+    "rating": 4.7,
+    "bio": "Delivers enlightening Educational content with a Spiritual depth, fostering holistic understanding.",
+    "languagesSpoken": ["Malayalam", "English", "Hindi"]
   },
   {
     "id": "magicians-illusionist-mentalist-01",
     "name": "Aisha Mystic",
     "category": "Magicians",
     "subCategory": ["Illusionist", "Mentalist"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Mystic",
+    "image": "",
     "location": "Hyderabad",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.5
+    "priceRange": "10000-20000",
+    "rating": 4.5,
+    "bio": "A true master of deception, performing breathtaking illusions and mind-bending mentalist feats.",
+    "languagesSpoken": ["Telugu", "English", "Hindi"]
   },
   {
     "id": "magicians-close-up-stage-02",
     "name": "Rahul Enigma",
     "category": "Magicians",
     "subCategory": ["Close-Up", "Stage"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Enigma",
+    "image": "",
     "location": "Pune",
-    "priceRange": "$5,000+",
-    "rating": 4.9
+    "priceRange": "40000-80000",
+    "rating": 4.9,
+    "bio": "From intimate Close-Up magic to grand Stage spectacles, he creates unforgettable moments of wonder.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "magicians-kids-shows-illusionist-03",
     "name": "Priya Illusion",
     "category": "Magicians",
     "subCategory": ["Kids Shows", "Illusionist"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Illusion",
+    "image": "",
     "location": "Ahmedabad",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.1
+    "priceRange": "20000-40000",
+    "rating": 4.1,
+    "bio": "Captivates young audiences with fun Kids Shows and amazes adults with impressive illusions.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "magicians-mentalist-close-up-04",
     "name": "Arjun Wonder",
     "category": "Magicians",
     "subCategory": ["Mentalist", "Close-Up"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Wonder",
+    "image": "",
     "location": "Goa",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.7
+    "priceRange": "5000-10000",
+    "rating": 4.7,
+    "bio": "Reads minds and performs astonishing Close-Up magic, leaving everyone in awe.",
+    "languagesSpoken": ["Konkani", "English", "Hindi"]
   },
   {
     "id": "magicians-stage-kids-shows-05",
     "name": "Sneha Conjure",
     "category": "Magicians",
     "subCategory": ["Stage", "Kids Shows"],
-    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Conjure",
+    "image": "",
     "location": "Chandigarh",
-    "priceRange": "Quote Based",
-    "rating": 4.3
+    "priceRange": "100000",
+    "rating": 4.3,
+    "bio": "Delivers engaging Stage magic for large audiences and delightful shows perfect for kids' parties.",
+    "languagesSpoken": ["Punjabi", "English", "Hindi"]
   },
   {
     "id": "magicians-illusionist-stage-06",
     "name": "Vikram Mystic",
     "category": "Magicians",
     "subCategory": ["Illusionist", "Stage"],
-    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Mystic",
+    "image": "",
     "location": "Kochi",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.6
+    "priceRange": "10000-20000",
+    "rating": 4.6,
+    "bio": "Presents grand illusions and spellbinding stage acts that defy explanation.",
+    "languagesSpoken": ["Malayalam", "English", "Hindi"]
   },
   {
     "id": "magicians-close-up-mentalist-07",
     "name": "Meera Enigma",
     "category": "Magicians",
     "subCategory": ["Close-Up", "Mentalist"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Enigma",
+    "image": "",
     "location": "Surat",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.0
+    "priceRange": "20000-40000",
+    "rating": 4.0,
+    "bio": "Creates intimate magical experiences with Close-Up magic and astounds with her mental abilities.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "magicians-kids-shows-close-up-08",
     "name": "Rohit Illusion",
     "category": "Magicians",
     "subCategory": ["Kids Shows", "Close-Up"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Illusion",
+    "image": "",
     "location": "Bhopal",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.8
+    "priceRange": "5000-10000",
+    "rating": 4.8,
+    "bio": "Offers enchanting Kids Shows with interactive magic and captivating Close-Up tricks for all ages.",
+    "languagesSpoken": ["Hindi", "English", "Urdu"]
   },
   {
     "id": "magicians-stage-mentalist-09",
     "name": "Divya Wonder",
     "category": "Magicians",
     "subCategory": ["Stage", "Mentalist"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Wonder",
+    "image": "",
     "location": "Mumbai",
-    "priceRange": "Quote Based",
-    "rating": 4.2
+    "priceRange": "100000",
+    "rating": 4.2,
+    "bio": "Performs grand Stage acts and intricate Mentalist demonstrations, blurring the lines of reality.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "magicians-illusionist-kids-shows-10",
     "name": "Karan Conjure",
     "category": "Magicians",
     "subCategory": ["Illusionist", "Kids Shows"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Conjure",
+    "image": "",
     "location": "Delhi",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.7
+    "priceRange": "10000-20000",
+    "rating": 4.7,
+    "bio": "A fantastic entertainer who specializes in large-scale Illusions and fun-filled Kids Shows.",
+    "languagesSpoken": ["Hindi", "English", "Punjabi"]
   },
   {
     "id": "instrumentalists-guitarists-pianists-01",
     "name": "Aisha Chord",
     "category": "Instrumentalists",
     "subCategory": ["Guitarists", "Pianists"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Chord",
+    "image": "",
     "location": "Chandigarh",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.5
+    "priceRange": "10000-20000",
+    "rating": 4.5,
+    "bio": "A gifted musician proficient in both soulful guitar melodies and intricate piano compositions.",
+    "languagesSpoken": ["Punjabi", "English", "Hindi"]
   },
   {
     "id": "instrumentalists-drummers-violinists-02",
     "name": "Rahul Maestro",
     "category": "Instrumentalists",
     "subCategory": ["Drummers", "Violinists"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Maestro",
+    "image": "",
     "location": "Kochi",
-    "priceRange": "$5,000+",
-    "rating": 4.9
+    "priceRange": "40000-80000",
+    "rating": 4.9,
+    "bio": "A true maestro, delivering powerful rhythms on drums and enchanting melodies on the violin.",
+    "languagesSpoken": ["Malayalam", "English", "Hindi"]
   },
   {
     "id": "instrumentalists-flutists-guitarists-03",
     "name": "Priya Tune",
     "category": "Instrumentalists",
     "subCategory": ["Flutists", "Guitarists"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Tune",
+    "image": "",
     "location": "Surat",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.1
+    "priceRange": "20000-40000",
+    "rating": 4.1,
+    "bio": "Her music is a beautiful blend of the serene flute and dynamic guitar, perfect for ambient or lively events.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "instrumentalists-pianists-drummers-04",
     "name": "Arjun Fingers",
     "category": "Instrumentalists",
     "subCategory": ["Pianists", "Drummers"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Fingers",
+    "image": "",
     "location": "Bhopal",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.7
+    "priceRange": "5000-10000",
+    "rating": 4.7,
+    "bio": "A rhythmic genius, captivating audiences with both intricate piano pieces and energetic drum solos.",
+    "languagesSpoken": ["Hindi", "English", "Urdu"]
   },
   {
     "id": "instrumentalists-violinists-flutists-05",
     "name": "Sneha Riff",
     "category": "Instrumentalists",
     "subCategory": ["Violinists", "Flutists"],
-    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Riff",
+    "image": "",
     "location": "Mumbai",
-    "priceRange": "Quote Based",
-    "rating": 4.3
+    "priceRange": "100000",
+    "rating": 4.3,
+    "bio": "Creates enchanting musical narratives with the expressive violin and the ethereal flute.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "instrumentalists-guitarists-drummers-06",
     "name": "Vikram Chord",
     "category": "Instrumentalists",
     "subCategory": ["Guitarists", "Drummers"],
-    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Chord",
+    "image": "",
     "location": "Delhi",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.6
+    "priceRange": "10000-20000",
+    "rating": 4.6,
+    "bio": "A powerful duo providing both driving guitar riffs and solid drum beats for a full band sound.",
+    "languagesSpoken": ["Hindi", "English", "Punjabi"]
   },
   {
     "id": "instrumentalists-pianists-violinists-07",
     "name": "Meera Maestro",
     "category": "Instrumentalists",
     "subCategory": ["Pianists", "Violinists"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Maestro",
+    "image": "",
     "location": "Bangalore",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.0
+    "priceRange": "20000-40000",
+    "rating": 4.0,
+    "bio": "Her performances offer a harmonious blend of the classical piano and the soaring melodies of the violin.",
+    "languagesSpoken": ["Kannada", "English", "Hindi"]
   },
   {
     "id": "instrumentalists-flutists-pianists-08",
     "name": "Rohit Tune",
     "category": "Instrumentalists",
     "subCategory": ["Flutists", "Pianists"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Tune",
+    "image": "",
     "location": "Chennai",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.8
+    "priceRange": "5000-10000",
+    "rating": 4.8,
+    "bio": "Creates serene and emotive soundscapes with the gentle flute and expressive piano.",
+    "languagesSpoken": ["Tamil", "English", "Hindi"]
   },
   {
     "id": "instrumentalists-drummers-flutists-09",
     "name": "Divya Fingers",
     "category": "Instrumentalists",
     "subCategory": ["Drummers", "Flutists"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Fingers",
+    "image": "",
     "location": "Kolkata",
-    "priceRange": "Quote Based",
-    "rating": 4.2
+    "priceRange": "100000",
+    "rating": 4.2,
+    "bio": "A unique combination, offering dynamic drum rhythms alongside captivating flute melodies.",
+    "languagesSpoken": ["Bengali", "English", "Hindi"]
   },
   {
     "id": "instrumentalists-violinists-guitarists-10",
     "name": "Karan Riff",
     "category": "Instrumentalists",
     "subCategory": ["Violinists", "Guitarists"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Riff",
+    "image": "",
     "location": "Hyderabad",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.7
+    "priceRange": "10000-20000",
+    "rating": 4.7,
+    "bio": "His performances showcase the versatility of both the melodic violin and the rhythmic guitar.",
+    "languagesSpoken": ["Telugu", "English", "Hindi"]
   },
   {
     "id": "theatre-artists-drama-mime-01",
     "name": "Aisha Drama",
     "category": "Theatre Artists",
     "subCategory": ["Drama", "Mime"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Drama",
+    "image": "",
     "location": "Pune",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.5
+    "priceRange": "10000-20000",
+    "rating": 4.5,
+    "bio": "An expressive theatre artist, bringing powerful dramatic narratives to life alongside intricate mime performances.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "theatre-artists-street-play-monologue-02",
     "name": "Rahul Scene",
     "category": "Theatre Artists",
     "subCategory": ["Street Play", "Monologue"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Scene",
+    "image": "",
     "location": "Ahmedabad",
-    "priceRange": "$5,000+",
-    "rating": 4.9
+    "priceRange": "40000-80000",
+    "rating": 4.9,
+    "bio": "A compelling performer specializing in raw, impactful street theatre and poignant monologues.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "theatre-artists-mime-street-play-03",
     "name": "Priya Act",
     "category": "Theatre Artists",
     "subCategory": ["Mime", "Street Play"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Act",
+    "image": "",
     "location": "Goa",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.1
+    "priceRange": "20000-40000",
+    "rating": 4.1,
+    "bio": "Engages audiences with expressive mime artistry and dynamic, socially relevant street plays.",
+    "languagesSpoken": ["Konkani", "English", "Hindi"]
   },
   {
     "id": "theatre-artists-drama-monologue-04",
     "name": "Arjun Stage",
     "category": "Theatre Artists",
     "subCategory": ["Drama", "Monologue"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Stage",
+    "image": "",
     "location": "Chandigarh",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.7
+    "priceRange": "5000-10000",
+    "rating": 4.7,
+    "bio": "A powerful stage presence, excelling in classic dramatic roles and emotive monologues.",
+    "languagesSpoken": ["Punjabi", "English", "Hindi"]
   },
   {
     "id": "theatre-artists-street-play-drama-05",
     "name": "Sneha Persona",
     "category": "Theatre Artists",
     "subCategory": ["Street Play", "Drama"],
-    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Persona",
+    "image": "",
     "location": "Kochi",
-    "priceRange": "Quote Based",
-    "rating": 4.3
+    "priceRange": "100000",
+    "rating": 4.3,
+    "bio": "Combines the raw energy of street theatre with structured dramatic performances for a powerful impact.",
+    "languagesSpoken": ["Malayalam", "English", "Hindi"]
   },
   {
     "id": "theatre-artists-mime-monologue-06",
     "name": "Vikram Drama",
     "category": "Theatre Artists",
     "subCategory": ["Mime", "Monologue"],
-    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Drama",
+    "image": "",
     "location": "Surat",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.6
+    "priceRange": "10000-20000",
+    "rating": 4.6,
+    "bio": "Conveys profound emotions through silent mime and delivers impactful, thought-provoking monologues.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "theatre-artists-drama-street-play-07",
     "name": "Meera Scene",
     "category": "Theatre Artists",
     "subCategory": ["Drama", "Street Play"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Scene",
+    "image": "",
     "location": "Bhopal",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.0
+    "priceRange": "20000-40000",
+    "rating": 4.0,
+    "bio": "Her art blends traditional dramatic storytelling with the accessible and powerful format of street plays.",
+    "languagesSpoken": ["Hindi", "English", "Urdu"]
   },
   {
     "id": "theatre-artists-monologue-mime-08",
     "name": "Rohit Act",
     "category": "Theatre Artists",
     "subCategory": ["Monologue", "Mime"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Act",
+    "image": "",
     "location": "Mumbai",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.8
+    "priceRange": "5000-10000",
+    "rating": 4.8,
+    "bio": "A captivating solo artist, performing expressive monologues and intricate mime acts.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "theatre-artists-street-play-monologue-09",
     "name": "Divya Stage",
     "category": "Theatre Artists",
     "subCategory": ["Street Play", "Monologue"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Stage",
+    "image": "",
     "location": "Delhi",
-    "priceRange": "Quote Based",
-    "rating": 4.2
+    "priceRange": "100000",
+    "rating": 4.2,
+    "bio": "Delivers powerful social messages through engaging street plays and intimate, compelling monologues.",
+    "languagesSpoken": ["Hindi", "English", "Punjabi"]
   },
   {
     "id": "theatre-artists-mime-drama-10",
     "name": "Karan Persona",
     "category": "Theatre Artists",
     "subCategory": ["Mime", "Drama"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Persona",
+    "image": "",
     "location": "Bangalore",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.7
+    "priceRange": "10000-20000",
+    "rating": 4.7,
+    "bio": "His versatile performances encompass the silent art of mime and the impactful world of drama.",
+    "languagesSpoken": ["Kannada", "English", "Hindi"]
   },
   {
     "id": "models-fashion-commercial-01",
     "name": "Aisha Pose",
     "category": "Models",
     "subCategory": ["Fashion", "Commercial"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Pose",
+    "image": "",
     "location": "Chennai",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.5
+    "priceRange": "10000-20000",
+    "rating": 4.5,
+    "bio": "A versatile model equally at home on the Fashion runway and in Commercial print campaigns.",
+    "languagesSpoken": ["Tamil", "English", "Hindi"]
   },
   {
     "id": "models-runway-fitness-02",
     "name": "Rahul Glow",
     "category": "Models",
     "subCategory": ["Runway", "Fitness"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Glow",
+    "image": "",
     "location": "Kolkata",
-    "priceRange": "$5,000+",
-    "rating": 4.9
+    "priceRange": "40000-80000",
+    "rating": 4.9,
+    "bio": "A stunning presence on the Runway, also known for his dedication and physique in Fitness modeling.",
+    "languagesSpoken": ["Bengali", "English", "Hindi"]
   },
   {
     "id": "models-commercial-fashion-03",
     "name": "Priya Vogue",
     "category": "Models",
     "subCategory": ["Commercial", "Fashion"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Vogue",
+    "image": "",
     "location": "Hyderabad",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.1
+    "priceRange": "20000-40000",
+    "rating": 4.1,
+    "bio": "Her portfolio boasts a wide range, from impactful Commercial ads to high-end Fashion editorials.",
+    "languagesSpoken": ["Telugu", "English", "Hindi"]
   },
   {
     "id": "models-fitness-runway-04",
     "name": "Arjun Runway",
     "category": "Models",
     "subCategory": ["Fitness", "Runway"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Runway",
+    "image": "",
     "location": "Pune",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.7
+    "priceRange": "5000-10000",
+    "rating": 4.7,
+    "bio": "Combines athletic prowess for Fitness campaigns with a commanding presence on the Runway.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "models-fashion-fitness-05",
     "name": "Sneha Chic",
     "category": "Models",
     "subCategory": ["Fashion", "Fitness"],
-    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Chic",
+    "image": "",
     "location": "Ahmedabad",
-    "priceRange": "Quote Based",
-    "rating": 4.3
+    "priceRange": "100000",
+    "rating": 4.3,
+    "bio": "A style icon for Fashion brands and an inspiration in the world of Fitness modeling.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "models-commercial-runway-06",
     "name": "Vikram Pose",
     "category": "Models",
     "subCategory": ["Commercial", "Runway"],
-    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Pose",
+    "image": "",
     "location": "Goa",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.6
+    "priceRange": "10000-20000",
+    "rating": 4.6,
+    "bio": "Delivers expressive performances for Commercial shoots and commands attention on the Runway.",
+    "languagesSpoken": ["Konkani", "English", "Hindi"]
   },
   {
     "id": "models-fitness-commercial-07",
     "name": "Meera Glow",
     "category": "Models",
     "subCategory": ["Fitness", "Commercial"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Glow",
+    "image": "",
     "location": "Chandigarh",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.0
+    "priceRange": "20000-40000",
+    "rating": 4.0,
+    "bio": "Her strong physique is perfect for Fitness campaigns, and her friendly demeanor shines in Commercials.",
+    "languagesSpoken": ["Punjabi", "English", "Hindi"]
   },
   {
     "id": "models-runway-fashion-08",
     "name": "Rohit Vogue",
     "category": "Models",
     "subCategory": ["Runway", "Fashion"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Vogue",
+    "image": "",
     "location": "Kochi",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.8
+    "priceRange": "5000-10000",
+    "rating": 4.8,
+    "bio": "A confident and charismatic model, gracing both high-fashion runways and stylish brand campaigns.",
+    "languagesSpoken": ["Malayalam", "English", "Hindi"]
   },
   {
     "id": "models-fashion-runway-09",
     "name": "Divya Runway",
     "category": "Models",
     "subCategory": ["Fashion", "Runway"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Runway",
+    "image": "",
     "location": "Surat",
-    "priceRange": "Quote Based",
-    "rating": 4.2
+    "priceRange": "100000",
+    "rating": 4.2,
+    "bio": "A dedicated model with a flair for both avant-garde fashion and classic runway shows.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "models-commercial-fitness-10",
     "name": "Karan Chic",
     "category": "Models",
     "subCategory": ["Commercial", "Fitness"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Chic",
+    "image": "",
     "location": "Bhopal",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.7
+    "priceRange": "10000-20000",
+    "rating": 4.7,
+    "bio": "Highly adaptable, appearing in mainstream Commercials and inspiring Fitness advertisements.",
+    "languagesSpoken": ["Hindi", "English", "Urdu"]
   },
   {
     "id": "hosts-event-host-tv-anchor-01",
     "name": "Aisha Spark",
     "category": "Hosts/Emcees",
     "subCategory": ["Event Host", "TV Anchor"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Spark",
+    "image": "",
     "location": "Mumbai",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.5
+    "priceRange": "10000-20000",
+    "rating": 4.5,
+    "bio": "A charismatic personality, engaging audiences as a live Event Host and captivating them as a TV Anchor.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "hosts-corporate-host-wedding-emcee-02",
     "name": "Rahul Charm",
     "category": "Hosts/Emcees",
     "subCategory": ["Corporate Host", "Wedding Emcee"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Charm",
+    "image": "",
     "location": "Delhi",
-    "priceRange": "$5,000+",
-    "rating": 4.9
+    "priceRange": "40000-80000",
+    "rating": 4.9,
+    "bio": "An articulate Corporate Host with a knack for making business events engaging, and a joyful Wedding Emcee.",
+    "languagesSpoken": ["Hindi", "English", "Punjabi"]
   },
   {
     "id": "hosts-tv-anchor-event-host-03",
     "name": "Priya Voice",
     "category": "Hosts/Emcees",
     "subCategory": ["TV Anchor", "Event Host"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Voice",
+    "image": "",
     "location": "Bangalore",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.1
+    "priceRange": "20000-40000",
+    "rating": 4.1,
+    "bio": "Her clear voice and confident demeanor make her ideal for both television anchoring and live event hosting.",
+    "languagesSpoken": ["Kannada", "English", "Hindi"]
   },
   {
     "id": "hosts-wedding-emcee-corporate-host-04",
     "name": "Arjun Convene",
     "category": "Hosts/Emcees",
     "subCategory": ["Wedding Emcee", "Corporate Host"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Convene",
+    "image": "",
     "location": "Chennai",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.7
+    "priceRange": "5000-10000",
+    "rating": 4.7,
+    "bio": "A master of ceremonies, effortlessly handling both celebratory wedding events and formal corporate gatherings.",
+    "languagesSpoken": ["Tamil", "English", "Hindi"]
   },
   {
     "id": "hosts-event-host-corporate-host-05",
     "name": "Sneha Facilitate",
     "category": "Hosts/Emcees",
     "subCategory": ["Event Host", "Corporate Host"],
-    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Facilitate",
+    "image": "",
     "location": "Kolkata",
-    "priceRange": "Quote Based",
-    "rating": 4.3
+    "priceRange": "100000",
+    "rating": 4.3,
+    "bio": "A professional who ensures smooth flow for any Event and expertly facilitates Corporate discussions.",
+    "languagesSpoken": ["Bengali", "English", "Hindi"]
   },
   {
     "id": "hosts-tv-anchor-wedding-emcee-06",
     "name": "Vikram Spark",
     "category": "Hosts/Emcees",
     "subCategory": ["TV Anchor", "Wedding Emcee"],
-    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Spark",
+    "image": "",
     "location": "Hyderabad",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.6
+    "priceRange": "10000-20000",
+    "rating": 4.6,
+    "bio": "Brings a lively spark to TV anchoring and creates a memorable, joyful atmosphere as a Wedding Emcee.",
+    "languagesSpoken": ["Telugu", "English", "Hindi"]
   },
   {
     "id": "hosts-corporate-host-tv-anchor-07",
     "name": "Meera Charm",
     "category": "Hosts/Emcees",
     "subCategory": ["Corporate Host", "TV Anchor"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Charm",
+    "image": "",
     "location": "Pune",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.0
+    "priceRange": "20000-40000",
+    "rating": 4.0,
+    "bio": "Her charming presence makes her a beloved TV Anchor and a highly effective Corporate Host.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "hosts-wedding-emcee-event-host-08",
     "name": "Rohit Voice",
     "category": "Hosts/Emcees",
     "subCategory": ["Wedding Emcee", "Event Host"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Voice",
+    "image": "",
     "location": "Ahmedabad",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.8
+    "priceRange": "5000-10000",
+    "rating": 4.8,
+    "bio": "A fantastic Wedding Emcee who also shines as a general Event Host, keeping the audience engaged.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "hosts-event-host-wedding-emcee-09",
     "name": "Divya Convene",
     "category": "Hosts/Emcees",
     "subCategory": ["Event Host", "Wedding Emcee"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Convene",
+    "image": "",
     "location": "Goa",
-    "priceRange": "Quote Based",
-    "rating": 4.2
+    "priceRange": "100000",
+    "rating": 4.2,
+    "bio": "Known for her ability to convene and manage large events, from corporate conferences to grand weddings.",
+    "languagesSpoken": ["Konkani", "English", "Hindi"]
   },
   {
     "id": "hosts-tv-anchor-corporate-host-10",
     "name": "Karan Facilitate",
     "category": "Hosts/Emcees",
     "subCategory": ["TV Anchor", "Corporate Host"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Facilitate",
+    "image": "",
     "location": "Chandigarh",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.7
+    "priceRange": "10000-20000",
+    "rating": 4.7,
+    "bio": "Expertly anchors TV shows and facilitates engaging discussions at corporate gatherings.",
+    "languagesSpoken": ["Punjabi", "English", "Hindi"]
   },
   {
     "id": "influencers-lifestyle-travel-01",
     "name": "Aisha Trend",
     "category": "Influencers",
     "subCategory": ["Lifestyle", "Travel"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Trend",
+    "image": "",
     "location": "Kochi",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.5
+    "priceRange": "10000-20000",
+    "rating": 4.5,
+    "bio": "A leading influencer showcasing vibrant Lifestyle content and exciting Travel adventures.",
+    "languagesSpoken": ["Malayalam", "English", "Hindi"]
   },
   {
     "id": "influencers-fashion-tech-02",
     "name": "Rahul Vibe",
     "category": "Influencers",
     "subCategory": ["Fashion", "Tech"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Vibe",
+    "image": "",
     "location": "Surat",
-    "priceRange": "$5,000+",
-    "rating": 4.9
+    "priceRange": "40000-80000",
+    "rating": 4.9,
+    "bio": "Known for his impeccable Fashion sense and insightful reviews of the latest Tech gadgets.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "influencers-food-lifestyle-03",
     "name": "Priya Connect",
     "category": "Influencers",
     "subCategory": ["Food", "Lifestyle"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Connect",
+    "image": "",
     "location": "Bhopal",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.1
+    "priceRange": "20000-40000",
+    "rating": 4.1,
+    "bio": "Connects with her audience through delicious Food content and relatable daily Lifestyle vlogs.",
+    "languagesSpoken": ["Hindi", "English", "Urdu"]
   },
   {
     "id": "influencers-travel-fashion-04",
     "name": "Arjun Reach",
     "category": "Influencers",
     "subCategory": ["Travel", "Fashion"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Reach",
+    "image": "",
     "location": "Mumbai",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.7
+    "priceRange": "5000-10000",
+    "rating": 4.7,
+    "bio": "Expands his reach with captivating Travel vlogs and trending Fashion hauls.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "influencers-tech-food-05",
     "name": "Sneha Gurus",
     "category": "Influencers",
     "subCategory": ["Tech", "Food"],
-    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Gurus",
+    "image": "",
     "location": "Delhi",
-    "priceRange": "Quote Based",
-    "rating": 4.3
+    "priceRange": "100000",
+    "rating": 4.3,
+    "bio": "A guru in both the Tech world, reviewing gadgets, and the culinary scene, sharing delectable recipes.",
+    "languagesSpoken": ["Hindi", "English", "Punjabi"]
   },
   {
     "id": "influencers-lifestyle-fashion-06",
     "name": "Vikram Trend",
     "category": "Influencers",
     "subCategory": ["Lifestyle", "Fashion"],
-    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Trend",
+    "image": "",
     "location": "Bangalore",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.6
+    "priceRange": "10000-20000",
+    "rating": 4.6,
+    "bio": "Sets trends with his inspiring Lifestyle content and cutting-edge Fashion insights.",
+    "languagesSpoken": ["Kannada", "English", "Hindi"]
   },
   {
     "id": "influencers-travel-tech-07",
     "name": "Meera Vibe",
     "category": "Influencers",
     "subCategory": ["Travel", "Tech"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Vibe",
+    "image": "",
     "location": "Chennai",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.0
+    "priceRange": "20000-40000",
+    "rating": 4.0,
+    "bio": "A digital nomad sharing her Travel experiences and the latest Tech innovations.",
+    "languagesSpoken": ["Tamil", "English", "Hindi"]
   },
   {
     "id": "influencers-food-travel-08",
     "name": "Rohit Connect",
     "category": "Influencers",
     "subCategory": ["Food", "Travel"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Connect",
+    "image": "",
     "location": "Kolkata",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.8
+    "priceRange": "5000-10000",
+    "rating": 4.8,
+    "bio": "Connects with his audience through mouth-watering Food vlogs and breathtaking Travel photography.",
+    "languagesSpoken": ["Bengali", "English", "Hindi"]
   },
   {
     "id": "influencers-tech-lifestyle-09",
     "name": "Divya Reach",
     "category": "Influencers",
     "subCategory": ["Tech", "Lifestyle"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Reach",
+    "image": "",
     "location": "Hyderabad",
-    "priceRange": "Quote Based",
-    "rating": 4.2
+    "priceRange": "100000",
+    "rating": 4.2,
+    "bio": "Her wide reach comes from her engaging Tech reviews and inspiring daily Lifestyle content.",
+    "languagesSpoken": ["Telugu", "English", "Hindi"]
   },
   {
     "id": "influencers-fashion-food-10",
     "name": "Karan Gurus",
     "category": "Influencers",
     "subCategory": ["Fashion", "Food"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Gurus",
+    "image": "",
     "location": "Pune",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.7
+    "priceRange": "10000-20000",
+    "rating": 4.7,
+    "bio": "A style maven and a culinary expert, sharing the best of Fashion trends and gourmet Food recipes.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "youtubers-comedy-vlogging-01",
     "name": "Aisha Clip",
     "category": "YouTubers",
     "subCategory": ["Comedy", "Vlogging"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Clip",
+    "image": "",
     "location": "Ahmedabad",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.5
+    "priceRange": "10000-20000",
+    "rating": 4.5,
+    "bio": "A hilarious YouTuber creating relatable Comedy skits and engaging daily Vlogs.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "youtubers-education-gaming-02",
     "name": "Rahul Tube",
     "category": "YouTubers",
     "subCategory": ["Education", "Gaming"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Tube",
+    "image": "",
     "location": "Goa",
-    "priceRange": "$5,000+",
-    "rating": 4.9
+    "priceRange": "40000-80000",
+    "rating": 4.9,
+    "bio": "Combines insightful Education tutorials with thrilling Gaming content, appealing to a wide audience.",
+    "languagesSpoken": ["Konkani", "English", "Hindi"]
   },
   {
     "id": "youtubers-diy-comedy-03",
     "name": "Priya Stream",
     "category": "YouTubers",
     "subCategory": ["DIY", "Comedy"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Stream",
+    "image": "",
     "location": "Chandigarh",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.1
+    "priceRange": "20000-40000",
+    "rating": 4.1,
+    "bio": "Her channel features creative DIY projects and laugh-out-loud Comedy sketches.",
+    "languagesSpoken": ["Punjabi", "English", "Hindi"]
   },
   {
     "id": "youtubers-vlogging-education-04",
     "name": "Arjun Pixel",
     "category": "YouTubers",
     "subCategory": ["Vlogging", "Education"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Pixel",
+    "image": "",
     "location": "Kochi",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.7
+    "priceRange": "5000-10000",
+    "rating": 4.7,
+    "bio": "Shares his daily life through Vlogging and imparts valuable knowledge with educational content.",
+    "languagesSpoken": ["Malayalam", "English", "Hindi"]
   },
   {
     "id": "youtubers-gaming-diy-05",
     "name": "Sneha View",
     "category": "YouTubers",
     "subCategory": ["Gaming", "DIY"],
-    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+View",
+    "image": "",
     "location": "Surat",
-    "priceRange": "Quote Based",
-    "rating": 4.3
+    "priceRange": "100000",
+    "rating": 4.3,
+    "bio": "A popular YouTuber known for her exciting Gaming streams and engaging DIY tutorials.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "youtubers-comedy-education-06",
     "name": "Vikram Clip",
     "category": "YouTubers",
     "subCategory": ["Comedy", "Education"],
-    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Clip",
+    "image": "",
     "location": "Bhopal",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.6
+    "priceRange": "10000-20000",
+    "rating": 4.6,
+    "bio": "Delivers educational content with a comedic twist, making learning fun and entertaining.",
+    "languagesSpoken": ["Hindi", "English", "Urdu"]
   },
   {
     "id": "youtubers-vlogging-gaming-07",
     "name": "Meera Tube",
     "category": "YouTubers",
     "subCategory": ["Vlogging", "Gaming"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Tube",
+    "image": "",
     "location": "Mumbai",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.0
+    "priceRange": "20000-40000",
+    "rating": 4.0,
+    "bio": "Her vlogs provide a peek into her life, alongside thrilling gaming sessions.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "youtubers-diy-vlogging-08",
     "name": "Rohit Stream",
     "category": "YouTubers",
     "subCategory": ["DIY", "Vlogging"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Stream",
+    "image": "",
     "location": "Delhi",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.8
+    "priceRange": "5000-10000",
+    "rating": 4.8,
+    "bio": "Shares creative DIY projects and engaging daily streams, connecting with a diverse audience.",
+    "languagesSpoken": ["Hindi", "English", "Punjabi"]
   },
   {
     "id": "youtubers-education-comedy-09",
     "name": "Divya Pixel",
     "category": "YouTubers",
     "subCategory": ["Education", "Comedy"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Pixel",
+    "image": "",
     "location": "Bangalore",
-    "priceRange": "Quote Based",
-    "rating": 4.2
+    "priceRange": "100000",
+    "rating": 4.2,
+    "bio": "Her channel delivers educational content with a refreshing dose of humor.",
+    "languagesSpoken": ["Kannada", "English", "Hindi"]
   },
   {
     "id": "youtubers-gaming-vlogging-10",
     "name": "Karan View",
     "category": "YouTubers",
     "subCategory": ["Gaming", "Vlogging"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+View",
+    "image": "",
     "location": "Chennai",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.7
+    "priceRange": "10000-20000",
+    "rating": 4.7,
+    "bio": "A popular personality for both intense gaming sessions and entertaining daily vlogs.",
+    "languagesSpoken": ["Tamil", "English", "Hindi"]
   },
   {
     "id": "poets-romantic-political-01",
     "name": "Aisha Verse",
     "category": "Poets/Spoken Word Artists",
     "subCategory": ["Romantic", "Political"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Verse",
+    "image": "",
     "location": "Kolkata",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.5
+    "priceRange": "10000-20000",
+    "rating": 4.5,
+    "bio": "A poignant poet, weaving heartfelt Romantic verses with powerful Political spoken word pieces.",
+    "languagesSpoken": ["Bengali", "English", "Hindi"]
   },
   {
     "id": "poets-narrative-slam-poetry-02",
     "name": "Rahul Rhyme",
     "category": "Poets/Spoken Word Artists",
     "subCategory": ["Narrative", "Slam Poetry"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Rhyme",
+    "image": "",
     "location": "Hyderabad",
-    "priceRange": "$5,000+",
-    "rating": 4.9
+    "priceRange": "40000-80000",
+    "rating": 4.9,
+    "bio": "A master storyteller in verse, captivating with compelling Narrative poems and energetic Slam performances.",
+    "languagesSpoken": ["Telugu", "English", "Hindi"]
   },
   {
     "id": "poets-political-romantic-03",
     "name": "Priya Muse",
     "category": "Poets/Spoken Word Artists",
     "subCategory": ["Political", "Romantic"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Muse",
+    "image": "",
     "location": "Pune",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.1
+    "priceRange": "20000-40000",
+    "rating": 4.1,
+    "bio": "Her words stir emotion, delivering both tender Romantic poems and sharp, insightful Political commentary.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "poets-slam-poetry-narrative-04",
     "name": "Arjun Lyric",
     "category": "Poets/Spoken Word Artists",
     "subCategory": ["Slam Poetry", "Narrative"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Lyric",
+    "image": "",
     "location": "Ahmedabad",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.7
+    "priceRange": "5000-10000",
+    "rating": 4.7,
+    "bio": "An electrifying performer, bringing stories to life through powerful Slam Poetry and vivid narrative verse.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "poets-romantic-slam-poetry-05",
     "name": "Sneha Spoken",
     "category": "Poets/Spoken Word Artists",
     "subCategory": ["Romantic", "Slam Poetry"],
-    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Spoken",
+    "image": "",
     "location": "Goa",
-    "priceRange": "Quote Based",
-    "rating": 4.3
+    "priceRange": "100000",
+    "rating": 4.3,
+    "bio": "Her performances combine the heartfelt emotion of Romantic poetry with the dynamic energy of Slam.",
+    "languagesSpoken": ["Konkani", "English", "Hindi"]
   },
   {
     "id": "poets-political-narrative-06",
     "name": "Vikram Verse",
     "category": "Poets/Spoken Word Artists",
     "subCategory": ["Political", "Narrative"],
-    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Verse",
+    "image": "",
     "location": "Chandigarh",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.6
+    "priceRange": "10000-20000",
+    "rating": 4.6,
+    "bio": "Delivers thought-provoking Political poetry and captivating narrative verses.",
+    "languagesSpoken": ["Punjabi", "English", "Hindi"]
   },
   {
     "id": "poets-narrative-romantic-07",
     "name": "Meera Rhyme",
     "category": "Poets/Spoken Word Artists",
     "subCategory": ["Narrative", "Romantic"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Rhyme",
+    "image": "",
     "location": "Kochi",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.0
+    "priceRange": "20000-40000",
+    "rating": 4.0,
+    "bio": "Weaves intricate stories through her Narrative poetry and touches hearts with her Romantic verses.",
+    "languagesSpoken": ["Malayalam", "English", "Hindi"]
   },
   {
     "id": "poets-slam-poetry-political-08",
     "name": "Rohit Muse",
     "category": "Poets/Spoken Word Artists",
     "subCategory": ["Slam Poetry", "Political"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Muse",
+    "image": "",
     "location": "Surat",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.8
+    "priceRange": "5000-10000",
+    "rating": 4.8,
+    "bio": "His dynamic Slam performances often carry powerful political messages, resonating deeply with audiences.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "poets-romantic-narrative-09",
     "name": "Divya Lyric",
     "category": "Poets/Spoken Word Artists",
     "subCategory": ["Romantic", "Narrative"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Lyric",
+    "image": "",
     "location": "Bhopal",
-    "priceRange": "Quote Based",
-    "rating": 4.2
+    "priceRange": "100000",
+    "rating": 4.2,
+    "bio": "Expresses profound emotions through her lyrical Romantic poetry and engaging narrative pieces.",
+    "languagesSpoken": ["Hindi", "English", "Urdu"]
   },
   {
     "id": "poets-political-slam-poetry-10",
     "name": "Karan Spoken",
     "category": "Poets/Spoken Word Artists",
     "subCategory": ["Political", "Slam Poetry"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Spoken",
+    "image": "",
     "location": "Mumbai",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.7
+    "priceRange": "10000-20000",
+    "rating": 4.7,
+    "bio": "A compelling voice in spoken word, delivering sharp political commentary and impactful slam performances.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "visual-artists-live-painting-graffiti-01",
     "name": "Aisha Canvas",
     "category": "Visual Artists",
     "subCategory": ["Live Painting", "Graffiti"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Canvas",
+    "image": "",
     "location": "Delhi",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.5
+    "priceRange": "10000-20000",
+    "rating": 4.5,
+    "bio": "A dynamic visual artist, creating captivating Live Painting shows and bold, expressive Graffiti art.",
+    "languagesSpoken": ["Hindi", "English", "Punjabi"]
   },
   {
     "id": "visual-artists-sand-art-speed-painting-02",
     "name": "Rahul Palette",
     "category": "Visual Artists",
     "subCategory": ["Sand Art", "Speed Painting"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Palette",
+    "image": "",
     "location": "Bangalore",
-    "priceRange": "$5,000+",
-    "rating": 4.9
+    "priceRange": "40000-80000",
+    "rating": 4.9,
+    "bio": "Mesmerizes audiences with intricate Sand Art narratives and exhilarating Speed Painting performances.",
+    "languagesSpoken": ["Kannada", "English", "Hindi"]
   },
   {
     "id": "visual-artists-graffiti-live-painting-03",
     "name": "Priya Brush",
     "category": "Visual Artists",
     "subCategory": ["Graffiti", "Live Painting"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Brush",
+    "image": "",
     "location": "Chennai",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.1
+    "priceRange": "20000-40000",
+    "rating": 4.1,
+    "bio": "Her brushwork is as expressive in live painting as her spray can is in vibrant graffiti art.",
+    "languagesSpoken": ["Tamil", "English", "Hindi"]
   },
   {
     "id": "visual-artists-speed-painting-sand-art-04",
     "name": "Arjun Vision",
     "category": "Visual Artists",
     "subCategory": ["Speed Painting", "Sand Art"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Vision",
+    "image": "",
     "location": "Kolkata",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.7
+    "priceRange": "5000-10000",
+    "rating": 4.7,
+    "bio": "Combines the thrill of Speed Painting with the delicate artistry of Sand Art for a unique visual spectacle.",
+    "languagesSpoken": ["Bengali", "English", "Hindi"]
   },
   {
     "id": "visual-artists-live-painting-sand-art-05",
     "name": "Sneha Masterpiece",
     "category": "Visual Artists",
     "subCategory": ["Live Painting", "Sand Art"],
-    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Masterpiece",
+    "image": "",
     "location": "Hyderabad",
-    "priceRange": "Quote Based",
-    "rating": 4.3
+    "priceRange": "100000",
+    "rating": 4.3,
+    "bio": "Creates stunning visual masterpieces through captivating Live Painting and intricate Sand Art.",
+    "languagesSpoken": ["Telugu", "English", "Hindi"]
   },
   {
     "id": "visual-artists-graffiti-speed-painting-06",
     "name": "Vikram Canvas",
     "category": "Visual Artists",
     "subCategory": ["Graffiti", "Speed Painting"],
-    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Canvas",
+    "image": "",
     "location": "Pune",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.6
+    "priceRange": "10000-20000",
+    "rating": 4.6,
+    "bio": "Known for his bold Graffiti murals and high-energy Speed Painting performances.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "visual-artists-sand-art-graffiti-07",
     "name": "Meera Palette",
     "category": "Visual Artists",
     "subCategory": ["Sand Art", "Graffiti"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Palette",
+    "image": "",
     "location": "Ahmedabad",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.0
+    "priceRange": "20000-40000",
+    "rating": 4.0,
+    "bio": "Explores artistic expression through the delicate medium of Sand Art and the vibrant world of Graffiti.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "visual-artists-speed-painting-live-painting-08",
     "name": "Rohit Brush",
     "category": "Visual Artists",
     "subCategory": ["Speed Painting", "Live Painting"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Brush",
+    "image": "",
     "location": "Goa",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.8
+    "priceRange": "5000-10000",
+    "rating": 4.8,
+    "bio": "His dynamic performances include rapid Speed Painting and engaging Live Painting sessions.",
+    "languagesSpoken": ["Konkani", "English", "Hindi"]
   },
   {
     "id": "visual-artists-live-painting-graffiti-09",
     "name": "Divya Vision",
     "category": "Visual Artists",
     "subCategory": ["Live Painting", "Graffiti"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Vision",
+    "image": "",
     "location": "Chandigarh",
-    "priceRange": "Quote Based",
-    "rating": 4.2
+    "priceRange": "100000",
+    "rating": 4.2,
+    "bio": "A visionary artist creating impactful pieces through both real-time painting and urban graffiti art.",
+    "languagesSpoken": ["Punjabi", "English", "Hindi"]
   },
   {
     "id": "visual-artists-sand-art-speed-painting-10",
     "name": "Karan Masterpiece",
     "category": "Visual Artists",
     "subCategory": ["Sand Art", "Speed Painting"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Masterpiece",
+    "image": "",
     "location": "Kochi",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.7
+    "priceRange": "10000-20000",
+    "rating": 4.7,
+    "bio": "Produces stunning visual narratives using intricate Sand Art techniques and rapid Speed Painting.",
+    "languagesSpoken": ["Malayalam", "English", "Hindi"]
   },
   {
     "id": "specialty-acts-stunt-performers-fire-acts-01",
     "name": "Aisha Dare",
     "category": "Specialty Acts",
     "subCategory": ["Stunt Performers", "Fire Acts"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Aisha+Dare",
+    "image": "",
     "location": "Surat",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.5
+    "priceRange": "10000-20000",
+    "rating": 4.5,
+    "bio": "A fearless performer, captivating audiences with breathtaking Stunt Performances and mesmerizing Fire Acts.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   },
   {
     "id": "specialty-acts-led-acts-aerial-artists-02",
     "name": "Rahul Flame",
     "category": "Specialty Acts",
     "subCategory": ["LED Acts", "Aerial Artists"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rahul+Flame",
+    "image": "",
     "location": "Bhopal",
-    "priceRange": "$5,000+",
-    "rating": 4.9
+    "priceRange": "40000-80000",
+    "rating": 4.9,
+    "bio": "Creates dazzling spectacles with vibrant LED Acts and gravity-defying Aerial Performances.",
+    "languagesSpoken": ["Hindi", "English", "Urdu"]
   },
   {
     "id": "specialty-acts-puppetry-stunt-performers-03",
     "name": "Priya Glow",
     "category": "Specialty Acts",
     "subCategory": ["Puppetry", "Stunt Performers"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Priya+Glow",
+    "image": "",
     "location": "Mumbai",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.1
+    "priceRange": "20000-40000",
+    "rating": 4.1,
+    "bio": "Offers enchanting Puppetry shows and thrilling Stunt Performances for varied entertainment.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "specialty-acts-fire-acts-led-acts-04",
     "name": "Arjun Air",
     "category": "Specialty Acts",
     "subCategory": ["Fire Acts", "LED Acts"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Arjun+Air",
+    "image": "",
     "location": "Delhi",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.7
+    "priceRange": "5000-10000",
+    "rating": 4.7,
+    "bio": "His fiery performances combine spectacular Fire Acts with illuminating LED routines.",
+    "languagesSpoken": ["Hindi", "English", "Punjabi"]
   },
   {
     "id": "specialty-acts-aerial-artists-puppetry-05",
     "name": "Sneha Marionette",
     "category": "Specialty Acts",
     "subCategory": ["Aerial Artists", "Puppetry"],
-    "image": "https://placehold.co/400x300/a0a0a0/000000?text=Sneha+Marionette",
+    "image": "",
     "location": "Bangalore",
-    "priceRange": "Quote Based",
-    "rating": 4.3
+    "priceRange": "100000",
+    "rating": 4.3,
+    "bio": "A unique artist who blends the elegance of Aerial Arts with the charming storytelling of Puppetry.",
+    "languagesSpoken": ["Kannada", "English", "Hindi"]
   },
   {
     "id": "specialty-acts-stunt-performers-led-acts-06",
     "name": "Vikram Dare",
     "category": "Specialty Acts",
     "subCategory": ["Stunt Performers", "LED Acts"],
-    "image": "https://placehold.co/400x300/909090/000000?text=Vikram+Dare",
+    "image": "",
     "location": "Chennai",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.6
+    "priceRange": "10000-20000",
+    "rating": 4.6,
+    "bio": "A high-octane performer, thrilling audiences with incredible Stunt Performances and dazzling LED shows.",
+    "languagesSpoken": ["Tamil", "English", "Hindi"]
   },
   {
     "id": "specialty-acts-fire-acts-aerial-artists-07",
     "name": "Meera Flame",
     "category": "Specialty Acts",
     "subCategory": ["Fire Acts", "Aerial Artists"],
-    "image": "https://placehold.co/400x300/e0e0e0/000000?text=Meera+Flame",
+    "image": "",
     "location": "Kolkata",
-    "priceRange": "$3,000 - $5,000",
-    "rating": 4.0
+    "priceRange": "20000-40000",
+    "rating": 4.0,
+    "bio": "Her acts are a stunning combination of dramatic Fire performances and elegant Aerial artistry.",
+    "languagesSpoken": ["Bengali", "English", "Hindi"]
   },
   {
     "id": "specialty-acts-puppetry-fire-acts-08",
     "name": "Rohit Glow",
     "category": "Specialty Acts",
     "subCategory": ["Puppetry", "Fire Acts"],
-    "image": "https://placehold.co/400x300/d0d0d0/000000?text=Rohit+Glow",
+    "image": "",
     "location": "Hyderabad",
-    "priceRange": "$500 - $1,500",
-    "rating": 4.8
+    "priceRange": "5000-10000",
+    "rating": 4.8,
+    "bio": "Brings traditional Puppetry to life and adds excitement with safe, controlled Fire Acts.",
+    "languagesSpoken": ["Telugu", "English", "Hindi"]
   },
   {
     "id": "specialty-acts-led-acts-stunt-performers-09",
     "name": "Divya Air",
     "category": "Specialty Acts",
     "subCategory": ["LED Acts", "Stunt Performers"],
-    "image": "https://placehold.co/400x300/c0c0c0/000000?text=Divya+Air",
+    "image": "",
     "location": "Pune",
-    "priceRange": "Quote Based",
-    "rating": 4.2
+    "priceRange": "100000",
+    "rating": 4.2,
+    "bio": "Her performances feature visually stunning LED Acts and thrilling, high-energy Stunt Performances.",
+    "languagesSpoken": ["Marathi", "English", "Hindi"]
   },
   {
     "id": "specialty-acts-aerial-artists-fire-acts-10",
     "name": "Karan Marionette",
     "category": "Specialty Acts",
     "subCategory": ["Aerial Artists", "Fire Acts"],
-    "image": "https://placehold.co/400x300/b0b0b0/000000?text=Karan+Marionette",
+    "image": "",
     "location": "Ahmedabad",
-    "priceRange": "$1,500 - $3,000",
-    "rating": 4.7
+    "priceRange": "10000-20000",
+    "rating": 4.7,
+    "bio": "A master of dramatic aerial choreography combined with captivating fire manipulation.",
+    "languagesSpoken": ["Gujarati", "English", "Hindi"]
   }
 ]
