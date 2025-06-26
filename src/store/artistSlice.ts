@@ -21,6 +21,9 @@ export const artistSlice = createSlice({
     addArtist: (state, action: PayloadAction<Artist>) => {
       state.artists.push(action.payload);
     },
+    deleteArtist: (state, action: PayloadAction<string>) => {
+      state.artists = state.artists.filter((artist) => artist.id !== action.payload);
+    },
     setSelectedArtist: (state, action: PayloadAction<Artist | null>) => {
       state.selectedArtist = action.payload;
     },
@@ -31,6 +34,6 @@ export const artistSlice = createSlice({
   },
 });
 
-export const { setArtists, addArtist, setSelectedArtist, clearArtists } = artistSlice.actions;
+export const { setArtists, addArtist, deleteArtist, setSelectedArtist, clearArtists } = artistSlice.actions;
 
 export default artistSlice.reducer;

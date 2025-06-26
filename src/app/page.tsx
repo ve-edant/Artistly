@@ -2,14 +2,11 @@
 import React from "react";
 import CategoryCards from "@/components/CategoryCards";
 import SearchBar from "@/components/SearchBar";
-import { store } from "@/store/store";
-import { Provider } from "react-redux";
 
 const Home = () => {
   return (
-    <Provider store={store}>
-      <main className="px-4 md:px-20 pt-10 md:pt-5 max-h-screen flex items-start md:items-center bg-white">
-        <section className="w-full border min-h-[60vh] md:h-[90vh] border-black rounded-3xl p-3 md:p-12 content-end bg-gray-50">
+      <main className="px-4 md:px-20 pt-[64px] max-h-screen flex items-start md:items-center bg-white">
+        <section className="w-full border mt-5 lg:mt-10 min-h-[60vh] md:h-[90vh] border-black rounded-3xl p-3 md:p-12 content-end bg-gray-50">
           {/* Hero */}
           <div className="w-full md:w-[40vw]">
             <div className="flex-1 space-y-2">
@@ -30,7 +27,6 @@ const Home = () => {
           <CategoryCards />
         </section>
       </main>
-    </Provider>
   );
 };
 

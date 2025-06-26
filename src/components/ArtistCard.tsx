@@ -1,6 +1,8 @@
 "use client";
 import { Artist } from "@/store/types/artist";
 import React, { useState } from "react";
+import { FaLocationDot } from "react-icons/fa6";
+
 
 const ArtistCard: React.FC<Artist> = ({
   id,
@@ -29,7 +31,8 @@ const ArtistCard: React.FC<Artist> = ({
           <h2 className="text-xl font-semibold text-gray-900">{name}</h2>
           {location && (
             <p className="text-sm text-gray-500 mt-1 flex items-center gap-1">
-              📍 <span>{location}</span>
+              <FaLocationDot color="#0000" />
+              <span>{location}</span>
             </p>
           )}
         </div>
