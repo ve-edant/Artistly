@@ -56,7 +56,7 @@ export default function ClientArtistPage({ artists, categories }: Props) {
 
   return (
     <div className="w-full pt-[24px] px-4 py-6">
-      <div className="fixed top-[64px] left-0 right-0 z-30 bg-white px-8 py-1">
+      <div className="fixed top-[64px] left-0 right-0 z-30 bg-white px-8 py-1 mb-5 lg:mb-10 ">
         <FiltersComponent
           filters={filters}
           updateSearchParams={updateSearchParams}

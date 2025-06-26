@@ -1,3 +1,4 @@
+"use client"
 // app/artist/page.tsx
 import { ArtistCategory } from "@/store/types/category";
 import categories from "@/app/lib/data/catetgories.json";
