@@ -1,3 +1,4 @@
+"use client";
 import { Artist } from "@/store/types/artist";
 import React, { useState } from "react";
 
@@ -38,6 +39,7 @@ const ArtistCard: React.FC<Artist> = ({
           width={64}
           height={64}
           className="w-16 h-16 rounded-full border-2 border-gray-200 object-cover ml-4"
+          loading="lazy"
         />
       </div>
 
